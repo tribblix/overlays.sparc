@@ -1,0 +1,9 @@
+VERSION=5
+NAME=Everything but the kitchen sink
+REQUIRES=x11
+REQUIRES=develop
+REQUIRES=java
+REQUIRES=java-fun
+REQUIRES=networked-system
+REQUIRES=tribblix-tools
+REQUIRES=motif-apps

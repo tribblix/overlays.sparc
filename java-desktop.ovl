@@ -1,0 +1,3 @@
+VERSION=3
+NAME=Desktop Utilities requiring Java
+REQUIRES=java
