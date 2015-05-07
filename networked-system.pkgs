@@ -7,6 +7,7 @@ SUNWcupsr
 SUNWcupsu
 TRIBsamba4
 TRIBbind9
+TRIBdhcp-server
 TRIBgnupg
 TRIBsys-security-kerberos-5
 TRIBsys-lib-security-gss-spnego
@@ -14,3 +15,9 @@ TRIBsys-lib-security-gss-dh
 TRIBsys-lib-security-rpcsec
 TRIBsvc-net-smtp-sendmail
 TRIBsys-net-mailwrapper
+TRIBmbuffer
+TRIBnet-ipfilter
+TRIBlib-security-tcp-wrapper
+TRIBsys-file-system-smb
+TRIBsvc-file-system-smb
+TRIBsvc-net-network-clients
