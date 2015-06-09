@@ -9,3 +9,6 @@ TRIBarchiver-gnu-tar
 SUNWp7zip
 TRIBcompress-xz
 TRIBcompress-pbzip2
+TRIBcompress-pigz
+TRIBcompress-lzip
+TRIBpipe-viewer

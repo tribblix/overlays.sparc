@@ -8,10 +8,10 @@ all-storage-drivers|2||
 autotools|2||
 base-extras|5||
 base|13||
-cli-tools|2||
+cli-tools|5||
 clojure|1||
 dbus-glib|1||
-develop|5||
+develop|6||
 fortran|2||
 groovy|3||
 java-desktop|3||
@@ -23,6 +23,7 @@ jruby|3||
 kitchen-sink|5||
 legacy-audio|1||
 legacy-services|1||
+monitoring|4||
 motif-apps|1||
 motif|1||
 networked-system|10||

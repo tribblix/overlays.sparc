@@ -47,6 +47,7 @@ TRIBv-python-27
 TRIBtext-locale
 TRIBdata-docbook
 SUNWgnu-mpfr
+TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
 SUNWxwinc
