@@ -9,7 +9,7 @@ autotools|2||
 base-extras|5||
 base|13||
 cli-tools|5||
-clojure|1||
+clojure|2||
 dbus-glib|1||
 develop|6||
 fortran|2||
