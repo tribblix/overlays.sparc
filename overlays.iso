@@ -5,6 +5,7 @@ all-storage-drivers
 all-crypto-drivers
 all-serial-drivers
 base-extras
+base-iso
 base
 cli-tools
 dbus-glib
