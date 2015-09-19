@@ -6,8 +6,9 @@ all-network-drivers|1||
 all-serial-drivers|1||
 all-storage-drivers|2||
 autotools|2||
-base-extras|5||
-base|13||
+base-extras|1||
+base-iso|1||
+base|21||
 cli-tools|5||
 clojure|2||
 dbus-glib|1||
@@ -17,8 +18,9 @@ groovy|3||
 java-desktop|3||
 java-developer|2||
 java-fun|1||
-java|6||
-java8|5||
+java-prerequisite|1||
+java|8||
+java8|8||
 jruby|3||
 kitchen-sink|6||
 legacy-audio|1||
