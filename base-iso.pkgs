@@ -37,9 +37,6 @@ SUNWbzip
 TRIBcompress-gzip
 TRIBcompress-unzip
 TRIBcompress-zip
-SUNWperl510core
-SUNWperl510usr
-TRIBperl-510-module-sun-solaris
 TRIBsys-esu
 TRIBnet-ssh
 TRIBnet-ssh-ssh-key

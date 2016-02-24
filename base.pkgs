@@ -1,6 +1,6 @@
 TRIBsys-data-hardware-registry
 TRIBsys-file-system-udfs
-SUNWpcre
+TRIBlib-pcre
 TRIBsys-xopen-xcu4
 TRIBsys-xopen-xcu6
 SUNWgnu-mp
@@ -11,3 +11,5 @@ TRIBblix-zones
 TRIBsys-man
 TRIBsys-ipc
 TRIBopenssl-compat
+TRIBperl-522
+TRIBperl-510-module-sun-solaris

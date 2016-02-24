@@ -32,7 +32,7 @@ TRIBshell-zsh
 SUNWmkcdr
 SUNWmkcd
 SUNWlxsl
-SUNWperl-xml-parser
+TRIBlib-perl-5-xml-parser
 TRIBflex
 TRIBgnu-m4
 TRIBgnu-gettext

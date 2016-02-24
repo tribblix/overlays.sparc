@@ -7,9 +7,9 @@ all-serial-drivers|1||
 all-storage-drivers|2||
 autotools|2||
 base-extras|1||
-base-iso|1||
-base|21||
-cli-tools|5||
+base-iso|2||
+base|24||
+cli-tools|6||
 clojure|2||
 dbus-glib|1||
 develop|6||
@@ -28,7 +28,7 @@ legacy-services|1||
 monitoring|4||
 motif-apps|1||
 motif|1||
-networked-system|10||
+networked-system|11||
 retro-desktop|9||
 rsyslog|1||
 scala|2||
