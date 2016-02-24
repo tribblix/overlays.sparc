@@ -5,10 +5,8 @@ TRIBsvc-net-dns-mdns
 TRIBsvc-file-system-nfs
 SUNWcupsr
 SUNWcupsu
-TRIBsamba4
 TRIBbind9
 TRIBdhcp-server
-TRIBgnupg
 TRIBsys-security-kerberos-5
 TRIBsys-lib-security-gss-spnego
 TRIBsys-lib-security-gss-dh

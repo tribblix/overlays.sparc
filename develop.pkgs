@@ -35,7 +35,6 @@ SUNWlxsl
 TRIBlib-perl-5-xml-parser
 TRIBflex
 TRIBgnu-m4
-TRIBgnu-gettext
 TRIBbison
 TRIBdebug-gdb
 TRIBtext-gawk
@@ -45,7 +44,6 @@ TRIBtk
 TRIBdev-versioning-git
 TRIBv-python-27
 TRIBtext-locale
-TRIBdata-docbook
 SUNWgnu-mpfr
 TRIBmercurial
 TRIBnet-ipfilter-header

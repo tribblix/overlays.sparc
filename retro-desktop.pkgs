@@ -1,14 +1,7 @@
-TRIBlibxcb
 TRIBsvc-storage-media-volmgr
 TRIBmedia-cdrw
-TRIBgdk-pixbuf
-TRIBimage-librsvg
-TRIBlib-desktop-cairo
 TRIBharfbuzz
-TRIBlib-desktop-pango
 TRIBgraphics-jasper
 TRIBtcl
 TRIBtk
-TRIBrdesktop
 TRIBxdaliclock
-TRIBxcpustate
