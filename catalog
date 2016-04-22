@@ -9,9 +9,10 @@ autotools|2||
 base-extras|1||
 base-iso|2||
 base|24||
-cli-tools|6||
+cli-tools|7||
 clojure|2||
 dbus-glib|1||
+develop-extras|14||
 develop|6||
 fortran|2||
 groovy|3||
@@ -34,6 +35,7 @@ rsyslog|1||
 scala|2||
 server-manage|2||
 storage-nas|2||
+tls|2||
 tomcat6|1||
 tomcat7|1||
 tomcat8|1||
