@@ -44,7 +44,6 @@ TRIBtk
 TRIBdev-versioning-git
 TRIBv-python-27
 TRIBtext-locale
-SUNWgnu-mpfr
 TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header

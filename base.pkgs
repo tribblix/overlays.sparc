@@ -3,7 +3,6 @@ TRIBsys-file-system-udfs
 TRIBlib-pcre
 TRIBsys-xopen-xcu4
 TRIBsys-xopen-xcu6
-SUNWgnu-mp
 TRIBtext-doctools
 TRIBtext-gnu-sed
 TRIBtext-gnu-grep

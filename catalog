@@ -8,12 +8,12 @@ all-storage-drivers|2||
 autotools|2||
 base-extras|1||
 base-iso|2||
-base|24||
+base|25||
 cli-tools|7||
 clojure|2||
 dbus-glib|1||
 develop-extras|14||
-develop|6||
+develop|7||
 fortran|2||
 groovy|3||
 java-desktop|3||
