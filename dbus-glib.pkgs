@@ -2,6 +2,6 @@ SUNWlexpt
 SUNWdbus-root
 SUNWdbus
 SUNWdbus-libs
-SUNWlibffi
-SUNWglib2
-SUNWdbus-glib
+TRIBlibffi
+TRIBlib-glib2
+TRIBsys-libdbus-glib

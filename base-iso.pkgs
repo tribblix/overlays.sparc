@@ -106,3 +106,10 @@ TRIBsys-kernel-cpu-sun4v
 TRIBdrv-cpu-us
 TRIBsys-lib-platform
 TRIBsys-lib-processor
+SUNWm64
+SUNWffb
+SUNWpfb
+SUNWnfb
+SUNWafb
+SUNWifb
+SUNWkfb

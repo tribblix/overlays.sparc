@@ -1,12 +1,9 @@
 TRIBsys-header
-SUNWglib2-devel
 SUNWlxml-devel
 SUNWlxsl-devel
 SUNWTiff-devel
 SUNWdbus-devel
 SUNWdbus-glib-devel
-SUNWglib2-devel
-SUNWlibffi-devel
 SUNWlibpopt-devel
 SUNWpng-devel
 SUNWjpg-devel
@@ -44,7 +41,9 @@ TRIBtk
 TRIBdev-versioning-git
 TRIBv-python-27
 TRIBtext-locale
+TRIBv-cmake-35
 TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
 SUNWxwinc
+TRIBscons
