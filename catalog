@@ -10,7 +10,7 @@ base-extras|1||
 base-iso|3||
 base|26||
 cli-tools|8||
-clojure|2||
+clojure|3||
 dbus-glib|2||
 develop-extras|15||
 develop|8||
@@ -22,6 +22,7 @@ java-developer|2||
 java-fun|1||
 java-prerequisite|2||
 java|8||
+java7|1||
 java8|8||
 jruby|3||
 kitchen-sink|6||
@@ -38,7 +39,6 @@ scala|2||
 server-manage|2||
 storage-nas|2||
 tls|2||
-tomcat6|1||
 tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
