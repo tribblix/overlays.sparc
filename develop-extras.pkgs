@@ -2,6 +2,7 @@ TRIBrcs
 TRIBcvs
 TRIBv-ruby-193
 TRIBv-python-35
+TRIBv-gccgo-483
 TRIBgnu-texinfo
 TRIBfossil
 TRIBreadline

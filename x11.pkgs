@@ -8,9 +8,12 @@ SUNWxwice
 SUNWxwdv
 SUNWxorg-xkb
 TRIBsys-lib-freetype-2
-SUNWpng
-SUNWjpg
-SUNWTiff
+TRIBimage-libjpeg
+TRIBimage-libpng
+TRIBcompress-xz
+TRIBimage-libtiff
+TRIBlibpng-compat
+TRIBlibtiff-compat
 SUNWpixman
 SUNWxvnc
 SUNWfont-xorg-core
