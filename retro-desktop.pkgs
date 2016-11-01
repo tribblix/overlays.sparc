@@ -1,8 +1,9 @@
 TRIBsvc-storage-media-volmgr
 TRIBmedia-cdrw
 TRIBharfbuzz
+TRIBimage-libexif
+TRIBlib-lcms2
 TRIBgraphics-jasper
 TRIBtcl
 TRIBtk
 TRIBxdaliclock
-TRIBlib-lcms2

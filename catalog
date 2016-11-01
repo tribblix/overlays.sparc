@@ -9,9 +9,9 @@ autotools|2||
 base-extras|1||
 base-iso|3||
 base|26||
-cli-tools|8||
+cli-tools|9||
 clojure|3||
-dbus-glib|2||
+dbus-glib|3||
 develop-extras|15||
 develop|8||
 fortran|2||
@@ -33,7 +33,7 @@ motif-apps|1||
 motif|1||
 networked-system|11||
 retro-desktop|11||
-retro-web|1||
+retro-web|2||
 rsyslog|1||
 scala|2||
 server-manage|2||
@@ -42,4 +42,5 @@ tls|2||
 tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
+webdev|1||
 x11|5||
