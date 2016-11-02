@@ -5,8 +5,6 @@ TRIBsys-header
 SUNWlxml-devel
 SUNWlxsl-devel
 SUNWdbus-devel
-SUNWdbus-glib-devel
-SUNWlibpopt-devel
 TRIBsys-lib-storage-ima-header
 TRIBdrv-storage-fas-header-fas
 TRIBsys-header-audio
