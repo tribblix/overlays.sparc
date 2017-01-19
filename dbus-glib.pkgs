@@ -1,7 +1,7 @@
 TRIBlib-expat
-SUNWdbus-root
-SUNWdbus
-SUNWdbus-libs
 TRIBlibffi
+TRIBsys-lib-dbus
+TRIBsys-libdbus
 TRIBlib-glib2
 TRIBsys-libdbus-glib
+TRIBsys-lib-dbus-dbus-x11
