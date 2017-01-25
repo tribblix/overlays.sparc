@@ -28,8 +28,7 @@ SUNWcpp
 SUNWxorg-mesa
 SUNWxdm-root
 SUNWxdm
-SUNWdesktop-cache-root
-SUNWdesktop-cache
+TRIBsvc-gnome-desktop-cache
 SUNWopenxsun-headers
 SUNWopenxsun-keytables
 SUNWopenxsun-server
