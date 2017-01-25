@@ -38,7 +38,7 @@ TRIBtk
 TRIBdev-versioning-git
 TRIBv-python-27
 TRIBtext-locale
-TRIBv-cmake-35
+TRIBv-cmake-36
 TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header

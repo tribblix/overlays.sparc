@@ -12,8 +12,8 @@ base|26||
 cli-tools|10||
 clojure|3||
 dbus-glib|4||
-develop-extras|15||
-develop|10||
+develop-extras|16||
+develop|11||
 fortran|2||
 gnupg2|1||
 groovy|3||
