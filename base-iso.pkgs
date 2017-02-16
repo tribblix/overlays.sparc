@@ -29,8 +29,7 @@ TRIBsys-file-system-smb
 TRIBsys-net-routing
 TRIBsys-libdiskmgt
 SUNWlibC
-SUNWzlib
-SUNWzlibr
+TRIBlib-zlib
 TRIBshell-bash
 TRIBdev-linker
 SUNWbzip
