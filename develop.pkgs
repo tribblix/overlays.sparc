@@ -2,7 +2,6 @@ TRIBdev-debug-mdb
 TRIBdev-debug-mdb-module-fc
 TRIBdev-linker
 TRIBsys-header
-SUNWlxml-devel
 SUNWlxsl-devel
 TRIBsys-lib-storage-ima-header
 TRIBdrv-storage-fas-header-fas

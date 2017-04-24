@@ -1,8 +1,11 @@
 SUNWcsd
+TRIBrelease-name
+TRIBsys-data-keyboard-keytables
+TRIBsys-data-terminfo
+TRIBsys-data-zoneinfo
 SUNWcs
 TRIBsys-library
-SUNWlxml
-SUNWlxmlr
+TRIBlibxml2
 TRIBsys-kernel
 TRIBsys-kernel-platform
 TRIBdrv-ser-usbser
@@ -13,6 +16,7 @@ TRIBsys-kernel-dtrace
 TRIBnet-bridging
 TRIBsys-net
 TRIBsys-lib-math
+TRIBsys-kernel-secure-rpc
 TRIBdev-dtrace
 TRIBgcc4runtime
 TRIBsys-file-system-autofs
@@ -56,11 +60,11 @@ TRIBdrv-storage-mpt-sas
 TRIBdev-debug-mdb
 TRIBdev-debug-mdb-module-fc
 TRIBsys-kernel-security-gss
-TRIBsys-kernel-secure-rpc
 TRIBsys-kernel-power
 TRIBsys-kernel-suspend-resume
 TRIBdrv-net-igb
 TRIBdrv-net-bge
+TRIBdrv-net-bnxe
 TRIBdrv-net-e1000g
 TRIBdrv-net-rge
 TRIBdrv-net-ixgb
@@ -72,13 +76,11 @@ TRIBdrv-net-sfe
 TRIBdrv-net-vr
 TRIBdrv-net-yge
 TRIBfile-gnu-coreutils
-TRIBsys-data-keyboard-keytables
 TRIBlocale-en
 TRIBstorage-stmf
 TRIBsys-libfcoe
 TRIBsys-lib-storage-fc-hbaapi
 TRIBsys-storage-fc-port-utility
-TRIBsys-data-terminfo
 TRIBpackage-svr4
 TRIBsys-boot-real-mode
 TRIBinstall-beadm
@@ -93,8 +95,6 @@ TRIBwget
 TRIBzap
 TRIBzap-upgrade
 SUNWsqlite3
-TRIBrelease-name
-TRIBsys-data-zoneinfo
 TRIBsys-ldoms
 TRIBdrv-storage-ssd
 TRIBdrv-sparc-platform
