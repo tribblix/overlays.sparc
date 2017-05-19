@@ -1,9 +1,16 @@
+TRIBcompress-zip
 TRIBlibssh2
 TRIBlibev
 TRIBlibnghttp2
+TRIBcurl
+TRIBsys-file-system-autofs
+TRIBsys-kernel-power
+TRIBsys-kernel-suspend-resume
+TRIBdev-dtrace
+TRIBfile-gnu-coreutils
+TRIBlib-pcre
 TRIBsys-data-hardware-registry
 TRIBsys-file-system-udfs
-TRIBlib-pcre
 TRIBsys-xopen-xcu4
 TRIBsys-xopen-xcu6
 TRIBtext-doctools

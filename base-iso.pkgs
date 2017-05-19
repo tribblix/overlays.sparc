@@ -17,9 +17,7 @@ TRIBnet-bridging
 TRIBsys-net
 TRIBsys-lib-math
 TRIBsys-kernel-secure-rpc
-TRIBdev-dtrace
 TRIBgcc4runtime
-TRIBsys-file-system-autofs
 TRIBsys-file-system-nfs
 TRIBsys-file-system-zfs
 TRIBlibtecla
@@ -39,13 +37,11 @@ TRIBdev-linker
 SUNWbzip
 TRIBcompress-gzip
 TRIBcompress-unzip
-TRIBcompress-zip
 TRIBsys-esu
 TRIBnet-ssh
 TRIBnet-ssh-ssh-key
 TRIBsvc-net-ssh
 TRIBsvc-picl
-TRIBsvc-fma
 SUNWadmr
 TRIBsvc-resource-pools
 TRIBsys-zones
@@ -60,8 +56,6 @@ TRIBdrv-storage-mpt-sas
 TRIBdev-debug-mdb
 TRIBdev-debug-mdb-module-fc
 TRIBsys-kernel-security-gss
-TRIBsys-kernel-power
-TRIBsys-kernel-suspend-resume
 TRIBdrv-net-igb
 TRIBdrv-net-bge
 TRIBdrv-net-bnxe
@@ -75,7 +69,6 @@ TRIBdrv-net-rtls
 TRIBdrv-net-sfe
 TRIBdrv-net-vr
 TRIBdrv-net-yge
-TRIBfile-gnu-coreutils
 TRIBlocale-en
 TRIBstorage-stmf
 TRIBsys-libfcoe
@@ -90,7 +83,6 @@ SUNWuiu8
 TRIBsys-scheduler-fss
 TRIBlibidn
 TRIBca-bundle
-TRIBcurl
 TRIBwget
 TRIBzap
 TRIBzap-upgrade
@@ -112,5 +104,6 @@ SUNWnfb
 SUNWafb
 SUNWifb
 SUNWkfb
+TRIBsvc-fma
 TRIBfile-magic
 TRIBeditor-nano

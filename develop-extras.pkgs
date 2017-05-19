@@ -6,11 +6,13 @@ TRIBv-gccgo-483
 TRIBgnu-texinfo
 TRIBfossil
 TRIBreadline
+TRIBsharutils
 TRIBtext-groff
 TRIBa2ps
 TRIBdateutils
 TRIBlibxml2-python-27
 TRIBdocutils-python-27
+TRIBvirtualenv-python-27
 TRIBgnome-doc-utils
 TRIBiso-codes
 TRIBmawk

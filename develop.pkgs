@@ -2,7 +2,6 @@ TRIBdev-debug-mdb
 TRIBdev-debug-mdb-module-fc
 TRIBdev-linker
 TRIBsys-header
-SUNWlxsl-devel
 TRIBsys-lib-storage-ima-header
 TRIBdrv-storage-fas-header-fas
 TRIBsys-header-audio
@@ -24,7 +23,7 @@ TRIBdev-object-file
 TRIBshell-zsh
 SUNWmkcdr
 SUNWmkcd
-SUNWlxsl
+TRIBlibxslt
 TRIBlib-perl-5-xml-parser
 TRIBflex
 TRIBgnu-m4
