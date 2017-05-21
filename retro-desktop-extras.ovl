@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Additional Desktop Environments and Utilities
+REQUIRES=retro-desktop

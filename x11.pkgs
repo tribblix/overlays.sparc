@@ -14,7 +14,7 @@ TRIBcompress-xz
 TRIBimage-libtiff
 TRIBlibpng-compat
 TRIBlibtiff-compat
-SUNWpixman
+TRIBlib-graphics-pixman
 SUNWxvnc
 SUNWfont-xorg-core
 TRIBsys-lib-policykit
