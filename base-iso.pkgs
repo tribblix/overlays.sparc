@@ -27,14 +27,13 @@ TRIBopenssl-compat
 TRIBsys-lib-security-gss
 TRIBsvc-security-gss
 TRIBsvc-security-kerberos-5
-TRIBsys-file-system-smb
 TRIBsys-net-routing
 TRIBsys-libdiskmgt
 SUNWlibC
 TRIBlib-zlib
 TRIBshell-bash
 TRIBdev-linker
-SUNWbzip
+TRIBcompress-bzip2
 TRIBcompress-gzip
 TRIBcompress-unzip
 TRIBsys-esu
@@ -45,7 +44,6 @@ TRIBsvc-picl
 SUNWadmr
 TRIBsvc-resource-pools
 TRIBsys-zones
-TRIBsvc-file-system-smb
 SUNWpr
 TRIBsys-lib-security-libsasl
 TRIBdrv-net-fcp
@@ -57,7 +55,7 @@ TRIBdev-debug-mdb
 TRIBdev-debug-mdb-module-fc
 TRIBsys-kernel-security-gss
 TRIBdrv-net-igb
-TRIBdrv-net-bge
+SUNWbge
 TRIBdrv-net-bnxe
 TRIBdrv-net-e1000g
 TRIBdrv-net-rge
@@ -70,7 +68,6 @@ TRIBdrv-net-sfe
 TRIBdrv-net-vr
 TRIBdrv-net-yge
 TRIBlocale-en
-TRIBstorage-stmf
 TRIBsys-libfcoe
 TRIBsys-lib-storage-fc-hbaapi
 TRIBsys-storage-fc-port-utility
