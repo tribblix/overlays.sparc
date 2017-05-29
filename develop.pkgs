@@ -17,7 +17,8 @@ TRIBtext-gnu-diffutils
 TRIBtext-gnu-patch
 TRIBfile-gnu-findutils
 TRIBdev-build-gnu-make
-SUNWsprot
+TRIBdev-build-make
+TRIBdev-build-as
 TRIBdev-gnu-binutils
 TRIBdev-object-file
 TRIBshell-zsh

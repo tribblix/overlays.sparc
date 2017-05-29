@@ -13,7 +13,7 @@ cli-tools|11||
 clojure|3||
 dbus-glib|4||
 develop-extras|18||
-develop|13||
+develop|14||
 fortran|2||
 gnupg2|2||
 groovy|3||
@@ -31,7 +31,7 @@ legacy-services|1||
 monitoring|4||
 motif-apps|1||
 motif|1||
-networked-system|11||
+networked-system|12||
 retro-desktop-extras|2||
 retro-desktop|13||
 retro-web|2||
