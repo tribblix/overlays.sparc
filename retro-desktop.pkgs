@@ -34,6 +34,7 @@ TRIBpoppler
 TRIBlibwebp
 TRIBimagemagick
 TRIBevince
+TRIBeditor-vim-gtk2
 TRIBxdaliclock
 TRIBxcpustate
 TRIBstartup-notification

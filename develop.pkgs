@@ -28,14 +28,17 @@ TRIBlibxslt
 TRIBlib-perl-5-xml-parser
 TRIBflex
 TRIBgnu-m4
+TRIBgnu-gettext
 TRIBbison
 TRIBdebug-gdb
 TRIBtext-gawk
 TRIBneon
 TRIBtcl
 TRIBtk
+TRIBtkdiff
 TRIBdev-versioning-git
 TRIBv-python-27
+TRIBncurses
 TRIBtext-locale
 TRIBv-cmake-36
 TRIBmercurial
@@ -43,3 +46,6 @@ TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
 SUNWxwinc
 TRIBscons
+TRIBgperf
+TRIBpkg-config
+TRIBintltool

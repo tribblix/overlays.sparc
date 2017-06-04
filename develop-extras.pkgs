@@ -5,6 +5,7 @@ TRIBv-python-36
 TRIBv-gccgo-483
 TRIBgnu-texinfo
 TRIBfossil
+TRIBdev-versioning-tig
 TRIBreadline
 TRIBsharutils
 TRIBtext-groff

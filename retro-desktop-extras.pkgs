@@ -4,6 +4,10 @@ TRIBicewm
 TRIBxdg-python-27
 TRIBfvwm
 TRIBgqview
+TRIBlibid3tag
+TRIBimlib2
+TRIBqiv
+TRIBirssi
 TRIBbluefish
 TRIBctwm
 TRIBvtwm
@@ -14,3 +18,4 @@ TRIBxclip
 TRIBterminal-urxvt
 TRIBgftp
 TRIBgeany
+TRIBncurses
