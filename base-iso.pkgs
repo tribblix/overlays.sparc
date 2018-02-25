@@ -87,7 +87,9 @@ SUNWsqlite3
 TRIBsys-ldoms
 TRIBdrv-storage-ssd
 TRIBdrv-sparc-platform
+TRIBdrv-net-dmfe
 TRIBdrv-net-eri
+TRIBdrv-net-hme
 TRIBdrv-net-qlc
 TRIBdrv-net-nxge
 TRIBsys-kernel-cpu-sun4v

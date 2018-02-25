@@ -1,0 +1,3 @@
+VERSION=3
+NAME=Extra Motif applications
+REQUIRES=motif

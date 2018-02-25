@@ -22,8 +22,7 @@ TRIBdev-build-as
 TRIBdev-gnu-binutils
 TRIBdev-object-file
 TRIBshell-zsh
-SUNWmkcdr
-SUNWmkcd
+TRIBcdrtools
 TRIBlibxslt
 TRIBlib-perl-5-xml-parser
 TRIBflex
