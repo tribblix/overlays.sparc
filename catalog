@@ -20,10 +20,10 @@ groovy|3||
 java-desktop|3||
 java-developer|2||
 java-fun|1||
-java-prerequisite|2||
-java|8||
+java-prerequisite|3||
+java|17||
 java7|1||
-java8|8||
+java8|18||
 jruby|3||
 kitchen-sink|6||
 legacy-audio|1||
