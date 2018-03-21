@@ -12,3 +12,5 @@ TRIBcompress-lzip
 TRIBpipe-viewer
 TRIBscreen
 TRIBagedu
+TRIBncurses
+TRIBhtop

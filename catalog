@@ -9,7 +9,7 @@ autotools|2||
 base-extras|1||
 base-iso|10||
 base|29||
-cli-tools|12||
+cli-tools|13||
 clojure|3||
 dbus-glib|4||
 develop-extras|20||
@@ -33,7 +33,7 @@ motif-apps-extras|3||
 motif-apps|1||
 motif|1||
 networked-system|12||
-retro-desktop-extras|3||
+retro-desktop-extras|4||
 retro-desktop|14||
 retro-web|3||
 rsyslog|1||
