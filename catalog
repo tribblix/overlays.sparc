@@ -8,8 +8,8 @@ all-storage-drivers|2||
 autotools|2||
 base-extras|1||
 base-iso|11||
-base|29||
-cli-tools|13||
+base|30||
+cli-tools|14||
 clojure|3||
 dbus-glib|4||
 develop-extras|20||
@@ -35,7 +35,7 @@ motif|1||
 networked-system|13||
 retro-desktop-extras|4||
 retro-desktop|14||
-retro-web|3||
+retro-web|4||
 rsyslog|1||
 samba|4||
 scala|3||
