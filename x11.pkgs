@@ -24,11 +24,10 @@ SUNWxwcft
 SUNWxwxft
 SUNWxwrtl
 SUNWfont-xorg-iso8859-1
-SUNWcpp
+TRIBdev-macro-cpp
 TRIBx11-x11-server-utilities
 SUNWxorg-mesa
-SUNWxdm-root
-SUNWxdm
+TRIBxdm
 TRIBsvc-gnome-desktop-cache
 SUNWopenxsun-headers
 SUNWopenxsun-keytables

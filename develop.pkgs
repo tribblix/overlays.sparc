@@ -9,10 +9,9 @@ TRIBsys-header-picl
 TRIBsys-header-usb
 TRIBsys-header-ugen
 TRIBsys-header-firewire
-SUNWcpp
+TRIBdev-macro-cpp
 TRIBdev-lib-lint
 TRIBv-gcc-483
-SUNWgcmn
 TRIBtext-gnu-diffutils
 TRIBtext-gnu-patch
 TRIBfile-gnu-findutils

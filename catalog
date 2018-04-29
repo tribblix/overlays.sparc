@@ -7,13 +7,13 @@ all-serial-drivers|1||
 all-storage-drivers|2||
 autotools|2||
 base-extras|1||
-base-iso|11||
+base-iso|12||
 base|31||
 cli-tools|14||
 clojure|3||
 dbus-glib|4||
 develop-extras|20||
-develop|17||
+develop|18||
 fortran|2||
 gnupg2|3||
 groovy|3||
@@ -47,4 +47,4 @@ tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
 webdev|4||
-x11|8||
+x11|9||
