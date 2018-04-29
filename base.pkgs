@@ -23,5 +23,5 @@ TRIBsys-ipc
 TRIBtext-less
 TRIBopenssl-compat
 TRIBperl-522
-TRIBperl-510-module-sun-solaris
+TRIBperl-522-module-sun-solaris
 TRIBgnupg

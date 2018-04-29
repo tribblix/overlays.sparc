@@ -8,7 +8,7 @@ all-storage-drivers|2||
 autotools|2||
 base-extras|1||
 base-iso|11||
-base|30||
+base|31||
 cli-tools|14||
 clojure|3||
 dbus-glib|4||
