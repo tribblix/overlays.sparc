@@ -25,7 +25,7 @@ java-prerequisite|3||
 java|18||
 java7|2||
 java8|19||
-jruby|3||
+jruby|4||
 kitchen-sink|6||
 legacy-audio|1||
 legacy-services|1||
