@@ -2,6 +2,7 @@ TRIBdev-debug-mdb
 TRIBdev-debug-mdb-module-fc
 TRIBdev-linker
 TRIBsys-header
+SUNWxwinc
 TRIBsys-lib-storage-ima-header
 TRIBdrv-storage-fas-header-fas
 TRIBsys-header-audio
@@ -36,13 +37,16 @@ TRIBtk
 TRIBtkdiff
 TRIBdev-versioning-git
 TRIBv-python-27
-TRIBncurses
 TRIBtext-locale
+TRIBncurses
 TRIBcmake
+TRIBlibyaml
+TRIBv-ruby-24
 TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
-SUNWxwinc
+TRIBfile-magic
+TRIBv-subversion-19
 TRIBscons
 TRIBgperf
 TRIBpkg-config
