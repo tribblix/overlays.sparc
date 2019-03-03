@@ -1,7 +1,9 @@
-VERSION=6
+VERSION=7
 NAME=Everything but the kitchen sink
 REQUIRES=x11
 REQUIRES=develop
 REQUIRES=java
-REQUIRES=java-fun
+REQUIRES=monitoring
 REQUIRES=networked-system
+REQUIRES=tribblix-tools
+REQUIRES=webdev

@@ -29,7 +29,7 @@ java|19||
 java7|2||
 java8|20||
 jruby|4||
-kitchen-sink|6||
+kitchen-sink|7||
 legacy-audio|1||
 legacy-services|1||
 monitoring-extras|1||
@@ -40,7 +40,7 @@ motif|1||
 nameserver|1||
 networked-system|13||
 retro-desktop-extras|4||
-retro-desktop|14||
+retro-desktop|15||
 retro-web|4||
 rsyslog|1||
 s3-utilities|6||
