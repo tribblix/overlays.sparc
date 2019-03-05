@@ -32,6 +32,7 @@ TRIBtk
 TRIBgsettings-desktop-schemas
 TRIBpoppler
 TRIBlibwebp
+TRIBlibraw
 TRIBimagemagick
 TRIBevince
 TRIBeditor-vim-gtk2
