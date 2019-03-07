@@ -11,7 +11,6 @@ TRIBsys-header-usb
 TRIBsys-header-ugen
 TRIBsys-header-firewire
 TRIBdev-macro-cpp
-TRIBdev-lib-lint
 TRIBv-gcc-483
 TRIBtext-gnu-diffutils
 TRIBtext-gnu-patch
