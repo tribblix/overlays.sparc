@@ -7,7 +7,7 @@ all-serial-drivers|1||
 all-storage-drivers|3||
 autotools|2||
 base-extras|1||
-base-iso|13||
+base-iso|14||
 base|31||
 cde|1||
 cli-tools|14||
@@ -24,7 +24,7 @@ illumos-docs|1||
 java-desktop|3||
 java-developer|8||
 java-fun|1||
-java-prerequisite|3||
+java-prerequisite|4||
 java|19||
 java7|2||
 java8|20||

@@ -29,7 +29,7 @@ TRIBsvc-security-gss
 TRIBsvc-security-kerberos-5
 TRIBsys-net-routing
 TRIBsys-libdiskmgt
-SUNWlibC
+TRIBsys-lib-cpp-sunpro
 TRIBlib-zlib
 TRIBshell-bash
 TRIBdev-linker
