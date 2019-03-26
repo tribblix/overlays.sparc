@@ -86,7 +86,6 @@ TRIBsys-storage-fc-port-utility
 TRIBpackage-svr4
 TRIBsys-boot-real-mode
 TRIBinstall-beadm
-TRIBnet-ftp
 SUNWiconv-unicode
 SUNWuiu8
 TRIBsys-scheduler-fss
@@ -111,6 +110,4 @@ SUNWafb
 SUNWifb
 SUNWkfb
 TRIBsvc-fma
-TRIBfile-magic
-TRIBeditor-nano
 TRIBdiagnostic-diskinfo

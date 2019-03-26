@@ -25,3 +25,5 @@ TRIBopenssl-compat
 TRIBperl-522
 TRIBperl-522-module-sun-solaris
 TRIBgnupg
+TRIBfile-magic
+TRIBeditor-nano

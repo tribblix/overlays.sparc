@@ -7,8 +7,8 @@ all-serial-drivers|1||
 all-storage-drivers|3||
 autotools|2||
 base-extras|1||
-base-iso|14||
-base|31||
+base-iso|15||
+base|32||
 cde|1||
 cli-tools|14||
 clojure|3||
@@ -41,7 +41,7 @@ nameserver|1||
 networked-system|13||
 retro-desktop-extras|4||
 retro-desktop|16||
-retro-web|4||
+retro-web|5||
 rsyslog|1||
 s3-utilities|6||
 samba|5||
