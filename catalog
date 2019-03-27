@@ -10,7 +10,7 @@ base-extras|1||
 base-iso|15||
 base|32||
 cde|1||
-cli-tools|14||
+cli-tools|15||
 clojure|3||
 dbus-glib|4||
 desktop-wallpaper|2||
@@ -38,7 +38,7 @@ motif-apps-extras|3||
 motif-apps|1||
 motif|1||
 nameserver|1||
-networked-system|13||
+networked-system|14||
 retro-desktop-extras|4||
 retro-desktop|16||
 retro-web|5||
@@ -48,10 +48,10 @@ samba|5||
 scala|3||
 server-manage|2||
 storage-nas|3||
-storage-server|9||
+storage-server|10||
 tls|2||
 tomcat8|1||
 tomcat9|1||
 tribblix-tools|3||
 webdev|4||
-x11|9||
+x11|10||
