@@ -11,7 +11,7 @@ base-iso|15||
 base|32||
 cde|1||
 cli-tools|15||
-clojure|3||
+clojure|4||
 dbus-glib|4||
 desktop-wallpaper|2||
 develop-extras|23||
