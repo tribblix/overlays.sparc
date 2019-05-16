@@ -1,0 +1,3 @@
+VERSION=3
+NAME=Security tools
+REQUIRES=dbus-glib
