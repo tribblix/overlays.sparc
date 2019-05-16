@@ -9,6 +9,7 @@ autotools|2||
 base-extras|1||
 base-iso|15||
 base|32||
+benchmark|1||
 cde|1||
 cli-tools|15||
 clojure|4||
