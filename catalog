@@ -12,7 +12,7 @@ base|32||
 benchmark|1||
 cde|1||
 cli-tools|15||
-clojure|4||
+clojure|5||
 dbus-glib|4||
 desktop-wallpaper|2||
 develop-extras|23||
