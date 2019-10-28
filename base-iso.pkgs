@@ -43,8 +43,8 @@ TRIBsvc-net-ssh
 TRIBsvc-picl
 TRIBsvc-resource-pools
 TRIBsys-zones
-SUNWpr
 TRIBsys-lib-security-libsasl
+TRIBdatabase-sqlite-3
 TRIBdrv-storage-aac
 TRIBdrv-storage-mpt-sas
 TRIBdrv-storage-mr-sas
@@ -94,7 +94,6 @@ TRIBca-bundle
 TRIBwget
 TRIBzap
 TRIBzap-upgrade
-TRIBdatabase-sqlite-3
 TRIBsys-ldoms
 TRIBdrv-storage-ssd
 TRIBdrv-sparc-platform

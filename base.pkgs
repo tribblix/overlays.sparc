@@ -1,9 +1,11 @@
 TRIBarchiver-gnu-tar
 TRIBcompress-zip
+TRIBlib-nspr
 TRIBlibssh2
 TRIBlibev
 TRIBlibnghttp2
 TRIBcurl
+TRIBsys-lib-mozilla-nss
 TRIBsys-file-system-autofs
 TRIBsys-kernel-power
 TRIBsys-kernel-suspend-resume
