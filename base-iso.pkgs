@@ -94,7 +94,7 @@ TRIBca-bundle
 TRIBwget
 TRIBzap
 TRIBzap-upgrade
-SUNWsqlite3
+TRIBdatabase-sqlite-3
 TRIBsys-ldoms
 TRIBdrv-storage-ssd
 TRIBdrv-sparc-platform
