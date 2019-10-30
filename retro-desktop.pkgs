@@ -17,6 +17,7 @@ TRIBdesktop-file-utils
 TRIBsvc-gnome-desktop-cache
 TRIBlibicu
 TRIBharfbuzz
+TRIBfribidi
 TRIBlib-desktop-pango
 TRIBgtk-engines
 TRIBmurrine
