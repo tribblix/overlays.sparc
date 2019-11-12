@@ -3,7 +3,7 @@ TRIBrsync
 TRIBeditor-vim
 TRIBncftp
 TRIBnet-telnet
-SUNWp7zip
+TRIBcompress-p7zip
 TRIBcompress-xz
 TRIBcompress-pbzip2
 TRIBcompress-pigz

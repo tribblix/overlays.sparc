@@ -12,7 +12,7 @@ base-iso|17||
 base|33||
 benchmark|1||
 cde|1||
-cli-tools|15||
+cli-tools|16||
 clojure|5||
 dbus-glib|4||
 desktop-wallpaper|2||
