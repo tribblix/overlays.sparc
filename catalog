@@ -47,7 +47,7 @@ rsyslog|1||
 s3-utilities|8||
 samba|5||
 scala|4||
-security|5||
+security|6||
 server-manage|2||
 storage-nas|3||
 storage-server|10||
@@ -55,6 +55,7 @@ tls|2||
 tomcat8|1||
 tomcat9|1||
 tribblix-tools|3||
+wapiti|1||
 webdev|4||
 wfuzz|1||
 x11|11||

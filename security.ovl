@@ -1,4 +1,5 @@
-VERSION=5
+VERSION=6
 NAME=Security tools
 REQUIRES=dbus-glib
 REQUIRES=wfuzz
+REQUIRES=wapiti
