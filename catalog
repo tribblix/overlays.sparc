@@ -6,12 +6,12 @@ all-network-drivers|3||
 all-serial-drivers|1||
 all-storage-drivers|3||
 autotools|2||
-awscli|2||
+awscli|3||
 base-extras|1||
 base-iso|17||
 base|33||
 benchmark|1||
-cde|1||
+cde|2||
 cli-tools|16||
 clojure|5||
 dbus-glib|4||
