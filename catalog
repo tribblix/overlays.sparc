@@ -9,7 +9,7 @@ autotools|2||
 awscli|3||
 base-extras|1||
 base-iso|17||
-base|33||
+base|34||
 benchmark|1||
 cde|2||
 cli-tools|16||
@@ -33,13 +33,13 @@ jruby|4||
 kitchen-sink|7||
 legacy-audio|1||
 legacy-services|1||
-monitoring-extras|1||
-monitoring|6||
+monitoring-extras|2||
+monitoring|7||
 motif-apps-extras|3||
 motif-apps|1||
 motif|1||
 nameserver|1||
-networked-system|14||
+networked-system|15||
 retro-desktop-extras|4||
 retro-desktop|17||
 retro-web|5||
