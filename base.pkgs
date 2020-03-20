@@ -29,4 +29,5 @@ TRIBperl-522-module-sun-solaris
 TRIBgnupg
 TRIBfile-magic
 TRIBeditor-nano
+TRIBdatabase-sqlite-3
 TRIBsys-lib-iconv-utf-8
