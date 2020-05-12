@@ -3,7 +3,8 @@ TRIBdev-astdev
 TRIBdev-opensolaris-osnet
 TRIBdev-build-onbld
 TRIBlib-lcms2
-TRIBsys-lib-install
+TRIBlibidn
+TRIBnet-snmp
 TRIBdev-illumos-gcc
 TRIBdev-illumos-gcc7
 TRIBopenssl-compat
