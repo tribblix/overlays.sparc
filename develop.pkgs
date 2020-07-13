@@ -6,11 +6,14 @@ SUNWxwinc
 TRIBsys-lib-storage-ima-header
 TRIBdrv-storage-fas-header-fas
 TRIBsys-header-audio
+TRIBsys-header-agp
 TRIBsys-header-picl
+TRIBsys-header-storage
 TRIBsys-header-usb
 TRIBsys-header-ugen
 TRIBsys-header-firewire
 TRIBdev-macro-cpp
+TRIBsys-lib-c-runtime
 TRIBv-gcc-483
 TRIBtext-gnu-diffutils
 TRIBtext-gnu-patch
@@ -19,6 +22,7 @@ TRIBdev-build-gnu-make
 TRIBdev-build-make
 TRIBdev-build-as
 TRIBdev-gnu-binutils
+TRIBsys-lib-demangle
 TRIBdev-object-file
 TRIBshell-zsh
 TRIBcdrtools
