@@ -42,7 +42,7 @@ TRIBtext-locale
 TRIBncurses
 TRIBcmake
 TRIBlibyaml
-TRIBv-ruby-25
+TRIBv-ruby-26
 TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
