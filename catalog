@@ -8,7 +8,7 @@ all-storage-drivers|3||
 autotools|2||
 awscli|4||
 base-extras|2||
-base-iso|18||
+base-iso|19||
 base|35||
 benchmark|1||
 cde|2||

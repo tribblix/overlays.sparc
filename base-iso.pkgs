@@ -8,6 +8,7 @@ TRIBsys-library
 TRIBlibxml2
 TRIBsys-kernel
 TRIBsys-kernel-platform
+TRIBsys-efcode-interpreter
 TRIBdrv-ser-usbser
 TRIBdrv-audio
 TRIBdrv-usb
