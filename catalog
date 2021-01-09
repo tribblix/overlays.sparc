@@ -8,11 +8,11 @@ all-storage-drivers|3||
 autotools|2||
 awscli|4||
 base-extras|2||
-base-iso|19||
+base-iso|20||
 base|35||
 benchmark|1||
 cde|2||
-cli-tools|16||
+cli-tools|17||
 clojure|5||
 dbus-glib|4||
 desktop-wallpaper|2||
