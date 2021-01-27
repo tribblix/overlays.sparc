@@ -11,13 +11,10 @@ base
 cli-tools
 dbus-glib
 develop
-java-prerequisite
-java
 kitchen-sink
 legacy-audio
 monitoring
 networked-system
 server-manage
 tls
-tribblix-tools
 x11

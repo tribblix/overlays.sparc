@@ -30,7 +30,7 @@ java-prerequisite|5||
 java|25||
 java8|26||
 jruby|4||
-kitchen-sink|8||
+kitchen-sink|9||
 legacy-audio|1||
 legacy-services|1||
 monitoring-extras|3||
