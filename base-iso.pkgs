@@ -35,7 +35,6 @@ TRIBlib-zlib
 TRIBshell-bash
 TRIBdev-linker
 TRIBcompress-bzip2
-TRIBcompress-pbzip2
 TRIBcompress-gzip
 TRIBcompress-unzip
 TRIBsys-esu
