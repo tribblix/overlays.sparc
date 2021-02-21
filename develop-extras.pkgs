@@ -1,6 +1,5 @@
 TRIBrcs
 TRIBcvs
-TRIBv-python-37
 TRIBgnu-texinfo
 TRIBfossil
 TRIBjoe
@@ -20,7 +19,6 @@ TRIBzipp-python-37
 TRIBappdirs-python-37
 TRIBdistlib-python-37
 TRIBimportlib-python-37
-TRIBsix-python-37
 TRIBvirtualenv-python-37
 TRIBgnome-doc-utils
 TRIBhtmldoc
