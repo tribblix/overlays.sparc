@@ -15,6 +15,7 @@ kitchen-sink
 legacy-audio
 monitoring
 networked-system
+python37
 server-manage
 tls
 x11
