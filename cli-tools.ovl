@@ -1,3 +1,4 @@
-VERSION=17
+VERSION=18
 NAME=Common CLI tools
 REQUIRES=base-extras
+REQUIRES=python37
