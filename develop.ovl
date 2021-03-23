@@ -1,5 +1,6 @@
-VERSION=24
+VERSION=25
 NAME=Development Tools
 REQUIRES=cli-tools
 REQUIRES=base-extras
 REQUIRES=dbus-glib
+REQUIRES=tls

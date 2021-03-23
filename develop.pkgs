@@ -42,13 +42,10 @@ TRIBtext-locale
 TRIBncurses
 TRIBcmake
 TRIBlibyaml
-TRIBv-ruby-26
-TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
 TRIBfile-magic
 TRIBv-subversion-19
-TRIBscons
 TRIBgperf
 TRIBpkg-config
 TRIBintltool

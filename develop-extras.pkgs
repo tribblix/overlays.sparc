@@ -19,6 +19,7 @@ TRIBzipp-python-37
 TRIBappdirs-python-37
 TRIBdistlib-python-37
 TRIBimportlib-python-37
+TRIBfilelock-python-37
 TRIBvirtualenv-python-37
 TRIBgnome-doc-utils
 TRIBhtmldoc
@@ -31,3 +32,6 @@ TRIBtree
 TRIBninja
 TRIBtqdm-python-37
 TRIBmeson-python-37
+TRIBmercurial
+TRIBscons
+TRIBv-ruby-27
