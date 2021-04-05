@@ -5,8 +5,18 @@
 
 REPOHOST="pkgs.tribblix.org"
 REPODIR="/var/repo"
+REPOVER="m20"
+REPOTYPE=".sparc"
 
-REPO="overlays-m20.sparc"
+case $1 in
+    -r)
+	REPOVER="$2"
+	shift
+	shift
+	;;
+esac
+
+REPO="overlays-${REPOVER}${REPOTYPE}"
 
 #
 # sanity check
