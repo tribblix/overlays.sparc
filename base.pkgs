@@ -32,3 +32,6 @@ TRIBeditor-nano
 TRIBdatabase-sqlite-3
 TRIBsys-lib-iconv-utf-8
 TRIBcompress-pbzip2
+TRIBcompress-xz
+TRIBcompress-lz4
+TRIBcompress-zstd

@@ -1,0 +1,4 @@
+VERSION=3
+NAME=Tcl/Tk
+REQUIRES=base-extras
+REQUIRES=x11

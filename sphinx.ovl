@@ -1,0 +1,3 @@
+VERSION=2
+NAME=Sphinx
+REQUIRES=python37
