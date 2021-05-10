@@ -17,7 +17,7 @@ clojure|5||
 dbus-glib|4||
 desktop-wallpaper|2||
 develop-extras|26||
-develop|25||
+develop|26||
 fortran|2||
 gnupg2|3||
 groovy|5||
@@ -26,7 +26,7 @@ illumos-docs|6||
 java-desktop|4||
 java-developer|9||
 java-fun|3||
-java-prerequisite|5||
+java-prerequisite|6||
 java|25||
 java8|26||
 jruby|4||
@@ -54,7 +54,7 @@ server-manage|3||
 sphinx|2||
 storage-nas|3||
 storage-server|10||
-tcl-tk|3||
+tcl-tk|4||
 tls|2||
 tomcat8|1||
 tomcat9|1||
@@ -62,4 +62,4 @@ tribblix-tools|5||
 wapiti|3||
 webdev|5||
 wfuzz|2||
-x11|12||
+x11|14||

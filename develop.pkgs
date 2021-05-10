@@ -2,7 +2,7 @@ TRIBdev-debug-mdb
 TRIBdev-debug-mdb-module-fc
 TRIBdev-linker
 TRIBsys-header
-SUNWxwinc
+TRIBx11-header-x11-protocols
 TRIBsys-lib-storage-ima-header
 TRIBdrv-storage-fas-header-fas
 TRIBsys-header-audio
