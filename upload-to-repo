@@ -5,7 +5,7 @@
 
 REPOHOST="pkgs.tribblix.org"
 REPODIR="/var/repo"
-REPOVER="m20"
+REPOVER="m21"
 REPOTYPE=".sparc"
 
 case $1 in
