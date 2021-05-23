@@ -1,8 +1,11 @@
 TRIBdrv-x11-winlock
 SUNWxwplt
 SUNWxwplr
-SUNWxorg-clientlibs
-SUNWxwfsw
+TRIBx11-libxxf86misc
+TRIBx11-libxxf86vm
+TRIBx11-font-utilities
+TRIBx11-libxfont
+TRIBx11-libfontenc
 TRIBx11-lib-xtrans
 TRIBsys-lib-freetype-2
 TRIBimage-libjpeg
@@ -12,7 +15,7 @@ TRIBimage-libtiff
 TRIBlibpng-compat
 TRIBlibtiff-compat
 TRIBlib-graphics-pixman
-SUNWxvnc
+TRIBx11-server-xvnc
 TRIBfont-xorg-core
 TRIBsys-lib-policykit
 TRIBsvc-hal
@@ -61,6 +64,8 @@ TRIBx11-keyboard-data-xkb
 TRIBx11-keyboard-xkbcomp
 TRIBx11-keyboard-xkb-utilities
 TRIBx11-data-xcursor-themes
+TRIBx11-xfs-xfs-utilities
+TRIBterminal-xterm
 SUNWxorg-mesa
 TRIBxdm
 TRIBxrestop

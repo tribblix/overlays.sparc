@@ -43,13 +43,13 @@ networked-system|15||
 python37|1||
 python39|1||
 retro-desktop-extras|4||
-retro-desktop|18||
+retro-desktop|19||
 retro-web|8||
 rsyslog|2||
 s3-utilities|9||
 samba|5||
 scala|4||
-security|10||
+security|11||
 server-manage|3||
 sphinx|2||
 storage-nas|3||
@@ -59,7 +59,6 @@ tls|2||
 tomcat8|1||
 tomcat9|1||
 tribblix-tools|5||
-wapiti|3||
 webdev|5||
 wfuzz|2||
 x11|14||
