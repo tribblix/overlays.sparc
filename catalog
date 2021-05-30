@@ -21,6 +21,7 @@ develop|27||
 fortran|3||
 gnupg2|3||
 groovy|5||
+gtk3|6||
 illumos-build|23||
 illumos-docs|6||
 java-desktop|4||
@@ -43,7 +44,7 @@ networked-system|15||
 python37|1||
 python39|1||
 retro-desktop-extras|4||
-retro-desktop|19||
+retro-desktop|20||
 retro-web|8||
 rsyslog|2||
 s3-utilities|9||
@@ -61,4 +62,5 @@ tomcat9|1||
 tribblix-tools|5||
 webdev|5||
 wfuzz|2||
-x11|14||
+x11-extras|1||
+x11|16||

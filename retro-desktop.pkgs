@@ -3,7 +3,6 @@ TRIBgiflib
 TRIBwmaker
 TRIBwmaker-themes
 TRIBsvc-storage-media-volmgr
-TRIBlibxcb
 TRIBfltk
 TRIBremote-desktop-tigervnc
 TRIBmedia-cdrw
@@ -38,6 +37,8 @@ TRIBlibraw
 TRIBimagemagick
 TRIBevince
 TRIBeditor-vim-gtk2
+TRIBjansson
+TRIBv-emacs-27
 TRIBxdaliclock
 TRIBxcpustate
 TRIBstartup-notification

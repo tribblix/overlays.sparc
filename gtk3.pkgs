@@ -1,0 +1,13 @@
+TRIBfribidi
+TRIBlibicu
+TRIBgdk-pixbuf
+TRIBharfbuzz
+TRIBlib-desktop-atk
+TRIBlib-desktop-cairo
+TRIBlib-desktop-pango
+TRIBlib-desktop-at-spi2
+TRIBlib-desktop-atk-bridge
+TRIBx11-libepoxy
+TRIBlib-desktop-gtk3
+TRIBgtk3-engines-unico
+TRIBadwaita-icon-theme
