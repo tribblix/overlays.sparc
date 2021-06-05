@@ -1,3 +1,6 @@
-VERSION=5
+VERSION=6
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
+REQUIRES=webdev
+REQUIRES=abiword
+REQUIRES=python37
