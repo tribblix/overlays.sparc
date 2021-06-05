@@ -12,10 +12,10 @@ cli-tools
 dbus-glib
 develop
 kitchen-sink
-legacy-audio
 monitoring
 networked-system
 python37
 server-manage
+tcl-tk
 tls
 x11

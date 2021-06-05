@@ -5,6 +5,7 @@ TRIBfossil
 TRIBjoe
 TRIBbzr
 TRIBdev-versioning-tig
+TRIBgnu-libiconv
 TRIBreadline
 TRIBitstool
 TRIBsharutils
@@ -29,9 +30,7 @@ TRIBmawk
 TRIBmultitail
 TRIBfltk
 TRIBtree
-TRIBninja
-TRIBtqdm-python-37
-TRIBmeson-python-37
+TRIBneon
 TRIBmercurial
 TRIBscons
 TRIBv-ruby-27
