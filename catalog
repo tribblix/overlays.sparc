@@ -9,7 +9,7 @@ all-storage-drivers|3||
 autotools|3||
 awscli|5||
 base-extras|2||
-base-iso|21||
+base-iso|22||
 base|37||
 benchmark|1||
 cde|2||
@@ -18,14 +18,14 @@ clojure|5||
 cloudsec|1||
 dbus-glib|4||
 desktop-wallpaper|2||
-develop-extras|28||
+develop-extras|29||
 develop|28||
 fortran|3||
 gnupg2|3||
 groovy|5||
 gtk2|1||
 gtk3|6||
-illumos-build|23||
+illumos-build|24||
 illumos-docs|6||
 java-desktop|4||
 java-developer|9||
@@ -50,7 +50,7 @@ retro-desktop-extras|6||
 retro-desktop|21||
 retro-web|8||
 rsyslog|2||
-s3-utilities|9||
+s3-utilities|10||
 samba|5||
 scala|4||
 security|12||
