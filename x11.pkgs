@@ -49,6 +49,7 @@ TRIBx11-libxrandr
 TRIBx11-libxxf86misc
 TRIBx11-libxxf86vm
 TRIBx11-x11-server-utilities
+TRIBx11-session-xinit
 TRIBx11-libxfixes
 TRIBx11-libxdamage
 TRIBx11-xclock
@@ -71,6 +72,8 @@ TRIBx11-libxvmc
 TRIBx11-xfs-xfs-utilities
 SUNWxorg-mesa
 TRIBxdm
+TRIBx11-xmessage
+TRIBdev-build-imake
 TRIBxrestop
 SUNWopenxsun-headers
 SUNWopenxsun-keytables

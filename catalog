@@ -19,7 +19,7 @@ clojure|5||
 cloudsec|1||
 dbus-glib|4||
 desktop-wallpaper|2||
-develop-extras|29||
+develop-extras|30||
 develop|28||
 fortran|3||
 gnumeric|4||
@@ -48,7 +48,7 @@ nameserver|1||
 networked-system|15||
 python37|1||
 python39|1||
-retro-desktop-extras|6||
+retro-desktop-extras|7||
 retro-desktop|21||
 retro-web|8||
 rsyslog|2||
@@ -67,5 +67,5 @@ tomcat9|1||
 tribblix-tools|5||
 webdev|5||
 wfuzz|2||
-x11-extras|1||
-x11|16||
+x11-extras|2||
+x11|17||
