@@ -42,7 +42,6 @@ TRIBlibyaml
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
 TRIBfile-magic
-TRIBv-subversion-19
 TRIBgperf
 TRIBpkg-config
 TRIBintltool
