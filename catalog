@@ -14,7 +14,7 @@ base-iso|22||
 base|37||
 benchmark|1||
 cde|2||
-cli-tools|19||
+cli-tools|16||
 clojure|5||
 cloudsec|1||
 dbus-glib|4||
