@@ -13,11 +13,12 @@ base-extras|2||
 base-iso|22||
 base|37||
 benchmark|1||
+borg|1||
 cli-tools|16||
 clojure|5||
 cloudsec|7||
 dbus-glib|4||
-desktop-wallpaper|2||
+desktop-wallpaper|3||
 develop-extras|32||
 develop|30||
 fortran|3||
@@ -47,6 +48,7 @@ motif-apps|1||
 motif|1||
 nameserver|1||
 networked-system|15||
+postgres11|1||
 python37|1||
 python39|1||
 retro-desktop-extras|8||
@@ -63,6 +65,7 @@ storage-nas|3||
 storage-server|10||
 tcl-tk|4||
 tls|2||
+tomcat10|1||
 tomcat8|1||
 tomcat9|1||
 tribblix-tools|5||
