@@ -16,7 +16,7 @@ benchmark|1||
 borg|1||
 cli-tools|16||
 clojure|5||
-cloudsec|7||
+cloudsec|8||
 dbus-glib|4||
 desktop-wallpaper|3||
 develop-extras|32||
@@ -58,9 +58,9 @@ rsyslog|2||
 s3-utilities|11||
 samba|5||
 scala|4||
-security|14||
+security|15||
 server-manage|3||
-sphinx|3||
+sphinx|4||
 storage-nas|3||
 storage-server|10||
 tcl-tk|4||
