@@ -20,7 +20,7 @@ TRIBzile
 TRIBdoxygen
 TRIBa2ps
 TRIBdateutils
-TRIBlibxml2-python-37
+TRIBlibxml2-python-39
 TRIBdocutils-python-37
 TRIBmore-itertools-python-37
 TRIBzipp-python-37
@@ -28,7 +28,6 @@ TRIBappdirs-python-37
 TRIBdistlib-python-37
 TRIBtypingext-python-37
 TRIBimportlib-python-37
-TRIBsix-python-37
 TRIBfilelock-python-37
 TRIBvirtualenv-python-37
 TRIBgnome-doc-utils
