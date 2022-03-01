@@ -13,7 +13,7 @@ base-extras|2||
 base-iso|22||
 base|37||
 benchmark|1||
-borg|1||
+borg|2||
 cli-tools|16||
 clojure|5||
 cloudsec|8||
