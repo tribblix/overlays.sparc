@@ -1,3 +1,4 @@
+all-1394-drivers
 all-audio-drivers
 all-crypto-drivers
 all-fabric-drivers
@@ -10,12 +11,12 @@ base-iso
 base
 cli-tools
 dbus-glib
+tcl-tk
 develop
 kitchen-sink
 monitoring
 networked-system
 python39
 server-manage
-tcl-tk
 tls
 x11
