@@ -6,7 +6,7 @@ TRIBlibflac
 TRIBlibogg
 TRIBlibvorbis
 TRIBicewm
-TRIBxdg-python-37
+TRIBxdg-python-39
 TRIBfvwm
 TRIBgqview
 TRIBlibid3tag
@@ -30,3 +30,6 @@ TRIBterminal-urxvt
 TRIBgftp
 TRIBgeany
 TRIBncurses
+TRIBgrisbi
+TRIBnsxiv
+TRIBxsnow
