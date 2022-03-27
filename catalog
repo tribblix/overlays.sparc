@@ -49,7 +49,8 @@ motif-apps|1||
 motif|1||
 nameserver|1||
 networked-system|15||
-postgres11|1||
+postgres11|2||
+postgres13|1||
 python37|1||
 python39|1||
 retro-desktop-extras|10||
