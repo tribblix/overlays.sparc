@@ -1,10 +1,9 @@
-VERSION=36
+VERSION=37
 NAME=Extra Development Tools
 REQUIRES=develop
 REQUIRES=groovy
 REQUIRES=scala
 REQUIRES=jruby
-REQUIRES=clojure
 REQUIRES=x11
 REQUIRES=sphinx
 REQUIRES=python37
