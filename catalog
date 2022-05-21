@@ -15,7 +15,6 @@ base|37||
 benchmark|1||
 borg|2||
 cli-tools|16||
-clojure|5||
 cloudsec|8||
 dbus-glib|4||
 desktop-mail|4||
@@ -31,7 +30,7 @@ gstreamer1|7||
 gtk2|1||
 gtk3|6||
 illumos-build|25||
-illumos-docs|9||
+illumos-docs|10||
 java-desktop|4||
 java-developer|10||
 java-fun|3||
