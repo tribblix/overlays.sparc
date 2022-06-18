@@ -38,7 +38,7 @@ java-prerequisite|5||
 java|31||
 java8|32||
 jruby|4||
-kitchen-sink|10||
+kitchen-sink|11||
 legacy-audio|1||
 legacy-services|1||
 monitoring-extras|3||
@@ -61,6 +61,7 @@ samba|5||
 scala|4||
 security|17||
 server-manage|3||
+server|1||
 sphinx|4||
 storage-nas|3||
 storage-server|10||
