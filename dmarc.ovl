@@ -1,0 +1,3 @@
+VERSION=8
+NAME=DMARC analysis
+REQUIRES=python39
