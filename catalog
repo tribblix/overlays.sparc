@@ -8,7 +8,7 @@ all-network-drivers|3||
 all-serial-drivers|1||
 all-storage-drivers|3||
 autotools|3||
-awscli|6||
+awscli|7||
 base-extras|2||
 base-iso|23||
 base|37||
@@ -19,7 +19,7 @@ cloudsec|8||
 dbus-glib|4||
 desktop-mail|4||
 desktop-wallpaper|3||
-develop-extras|39||
+develop-extras|40||
 develop|31||
 fortran|3||
 gemini-clients|3||
@@ -59,10 +59,10 @@ rsyslog|2||
 s3-utilities|11||
 samba|5||
 scala|4||
-security|17||
+security|18||
 server-manage|3||
 server|1||
-sphinx|4||
+sphinx|6||
 storage-nas|3||
 storage-server|10||
 tcl-tk|4||
