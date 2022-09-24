@@ -1,0 +1,3 @@
+NAME=httpie
+VERSION=2
+REQUIRES=python39
