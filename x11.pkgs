@@ -41,8 +41,6 @@ TRIBx11-libxft
 TRIBfont-xorg-iso8859-1
 TRIBterminal-xterm
 TRIBdesktop-wm-twm
-SUNWxwxft
-SUNWxwrtl
 TRIBx11-session-xauth
 TRIBdev-macro-cpp
 TRIBx11-libxrandr
