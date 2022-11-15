@@ -10,7 +10,7 @@ all-storage-drivers|3||
 autotools|3||
 awscli|7||
 base-extras|2||
-base-iso|23||
+base-iso|24||
 base|37||
 benchmark|1||
 borg|2||
