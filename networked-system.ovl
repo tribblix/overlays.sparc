@@ -1,4 +1,5 @@
-VERSION=15
+VERSION=18
 NAME=Networked systems integration
 REQUIRES=tls
 REQUIRES=dbus-glib
+REQUIRES=samba

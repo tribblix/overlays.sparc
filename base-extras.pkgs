@@ -4,4 +4,6 @@ TRIBlocale-es
 TRIBshell-tcsh
 TRIBsvc-storage-removable-media
 SUNWtop
+TRIBneofetch
 TRIBsys-scheduler-fss
+TRIBsys-libutempter
