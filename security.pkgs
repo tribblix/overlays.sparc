@@ -25,8 +25,10 @@ TRIBpysocks-python-39
 TRIBurllib3-python-39
 TRIBcharset-norm-python-39
 TRIBrequests-python-39
+TRIBgibberish-det-python-39
 TRIBdetect-secrets-python-39
 TRIBgraudit
 TRIBtext-utilities
 TRIBtestssl-sh
 TRIBflawfinder
+TRIBcrtsh
