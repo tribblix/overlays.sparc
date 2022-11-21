@@ -8,7 +8,6 @@ TRIBx11-lib-xtrans
 TRIBx11-xclipboard
 TRIBx11-xmag
 TRIBx11-xkill
-TRIBsvc-storage-media-volmgr
 TRIBfltk
 TRIBremote-desktop-tigervnc
 TRIBmedia-cdrw
@@ -45,11 +44,13 @@ TRIBfont-ttype-liberation
 TRIBfont-ttype-go
 TRIBeditor-vim-gtk2
 TRIBjansson
+TRIBdconf
 TRIBv-emacs-27
 TRIBxdaliclock
 TRIBxcpustate
 TRIBstartup-notification
 TRIBlibcroco
 TRIBhunspell
+TRIBspelldict-en
 TRIBenchant
 TRIBlibarchive

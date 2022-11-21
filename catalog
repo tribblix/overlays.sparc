@@ -1,4 +1,4 @@
-abiword|8||
+abiword|9||
 all-1394-drivers|1||
 all-audio-drivers|1||
 all-crypto-drivers|1||
@@ -19,8 +19,8 @@ cloudsec|9||
 dbus-glib|4||
 desktop-mail|4||
 desktop-wallpaper|3||
-develop-extras|41||
-develop|32||
+develop-extras|42||
+develop|33||
 dmarc|8||
 fortran|3||
 gemini-clients|3||
@@ -55,7 +55,7 @@ postgres13|1||
 python37|1||
 python39|1||
 retro-desktop-extras|12||
-retro-desktop|22||
+retro-desktop|23||
 retro-web|9||
 rsyslog|2||
 s3-utilities|11||
