@@ -52,6 +52,7 @@ nameserver|1||
 networked-system|18||
 postgres11|2||
 postgres13|1||
+python310|1||
 python37|1||
 python39|1||
 retro-desktop-extras|12||
@@ -76,4 +77,5 @@ tribblix-tools|5||
 webdev|5||
 wfuzz|3||
 x11-extras|2||
+x11-fonts|1||
 x11|20||
