@@ -44,7 +44,7 @@ kitchen-sink|11||
 legacy-audio|1||
 legacy-services|1||
 monitoring-extras|3||
-monitoring|9||
+monitoring|10||
 motif-apps-extras|3||
 motif-apps|1||
 motif|2||
@@ -60,7 +60,7 @@ retro-desktop|23||
 retro-web|9||
 rsyslog|2||
 s3-utilities|11||
-samba|5||
+samba|6||
 scala|4||
 security|20||
 server-manage|3||
