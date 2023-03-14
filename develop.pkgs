@@ -36,6 +36,7 @@ TRIBtext-locale
 TRIBncurses
 TRIBcmake
 TRIBlibyaml
+TRIBdata-docbook
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
 TRIBfile-magic
