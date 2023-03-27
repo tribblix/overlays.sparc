@@ -44,7 +44,7 @@ jruby|4||
 kitchen-sink|11||
 legacy-audio|1||
 legacy-services|1||
-lightweight-desktop|1||
+lightweight-desktop|2||
 monitoring-extras|3||
 monitoring|10||
 motif-apps-extras|3||
@@ -59,8 +59,8 @@ postgres15|1||
 python310|1||
 python37|1||
 python39|1||
-retro-desktop-extras|12||
-retro-desktop|23||
+retro-desktop-extras|13||
+retro-desktop|24||
 retro-web|9||
 rsyslog|2||
 s3-utilities|11||

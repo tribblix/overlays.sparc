@@ -1,7 +1,6 @@
-VERSION=12
+VERSION=13
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=webdev
-REQUIRES=abiword
-REQUIRES=gnumeric
-REQUIRES=python39
+REQUIRES=lightweight-desktop
+REQUIRES=desktop-mail
