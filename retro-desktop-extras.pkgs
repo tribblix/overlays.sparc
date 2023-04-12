@@ -14,6 +14,8 @@ TRIBimlib2
 TRIBfeh
 TRIBqiv
 TRIBgdmap
+TRIBlibglade
+TRIBopenbox
 TRIBirssi
 TRIBx11-xcowsay
 TRIBbluefish
@@ -34,6 +36,7 @@ TRIBlibgit2
 TRIBgeany-plugins
 TRIBncurses
 TRIBgrisbi
+TRIBqvwm
 TRIBnsxiv
 TRIBxsnow
 TRIBfont-ttype-juliamono
