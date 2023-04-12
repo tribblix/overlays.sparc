@@ -1,6 +1,7 @@
-VERSION=13
+VERSION=14
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
+REQUIRES=i3
 REQUIRES=webdev
 REQUIRES=lightweight-desktop
 REQUIRES=desktop-mail
