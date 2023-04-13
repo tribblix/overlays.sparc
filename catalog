@@ -56,7 +56,6 @@ nameserver|1||
 networked-system|18||
 postgres-utils|1||
 postgres13|1||
-postgres14|1||
 postgres15|1||
 python311|1||
 python37|1||
