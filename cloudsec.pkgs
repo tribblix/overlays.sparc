@@ -17,8 +17,14 @@ TRIBgraphviz
 TRIBpyparsing-python-39
 TRIBrequests-python-39
 TRIBzipp-python-39
+TRIBargcomplete-python-39
+TRIBboto3-python-39
+TRIBimportlib-python-39
+TRIBjsonschema-python-39
 TRIBpackaging-python-39
 TRIBpydot-python-39
+TRIBtabulate-python-39
+TRIBc7n-python-39
 TRIBpmapper-python-39
 TRIBgibberish-det-python-39
 TRIBdetect-secrets-python-39
