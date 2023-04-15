@@ -49,6 +49,8 @@ TRIBx11-x11-server-utilities
 TRIBx11-session-xinit
 TRIBx11-libxfixes
 TRIBx11-libxdamage
+TRIBdiagnostic-constype
+TRIBsvc-opengl-ogl-select
 TRIBx11-xclock
 TRIBx11-xconsole
 TRIBx11-libxinerama
