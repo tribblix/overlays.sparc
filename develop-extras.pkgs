@@ -4,7 +4,13 @@ TRIBgnu-texinfo
 TRIBdev-dtrace-toolkit
 TRIBfossil
 TRIBjoe
+TRIBconfigobj-python-39
+TRIBbcrypt-python-39
+TRIBpyasn1-python-39
 TRIBcython-python-39
+TRIBfastbencode-python-39
+TRIBfastimport-python-39
+TRIBpatiencediff-python-39
 TRIBdev-versioning-tig
 TRIBgnu-libiconv
 TRIBreadline
@@ -38,3 +44,4 @@ TRIBscons
 TRIBv-ruby-3
 TRIBdebug-gdb
 TRIBv-python-27
+TRIBpatchutils
