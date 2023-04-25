@@ -1,7 +1,8 @@
-VERSION=16
+VERSION=17
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
+REQUIRES=gimp
 REQUIRES=webdev
 REQUIRES=lightweight-desktop
 REQUIRES=desktop-mail
