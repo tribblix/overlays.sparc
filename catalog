@@ -67,13 +67,13 @@ retro-desktop|24||
 retro-web|9||
 rsyslog|2||
 s3-utilities|11||
-samba|6||
+samba|8||
 scala|5||
 security|20||
 server-manage|3||
 server|1||
 sphinx|6||
-storage-nas|3||
+storage-nas|4||
 storage-server|10||
 tcl-tk|4||
 tls|2||

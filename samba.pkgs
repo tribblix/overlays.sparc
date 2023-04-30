@@ -2,7 +2,6 @@ TRIBcompress-xz
 TRIBlibpopt
 TRIBsys-libdbus
 TRIBsvc-net-dns-mdns
-TRIBv-python-27
 TRIBcups
 TRIBlibarchive
 TRIBncurses
