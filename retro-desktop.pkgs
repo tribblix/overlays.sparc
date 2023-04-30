@@ -17,8 +17,6 @@ TRIBafterstep
 TRIBdesktop-file-utils
 TRIBsvc-gnome-desktop-cache
 TRIBlibicu
-TRIBharfbuzz
-TRIBfribidi
 TRIBgtk-engines
 TRIBmurrine
 TRIBgnome-hicolor-icon-theme
@@ -37,14 +35,16 @@ TRIBpoppler
 TRIBlibwebp
 TRIBlibraw
 TRIBimagemagick
+TRIBlibgxps
+TRIBlibspectre
 TRIBevince
 TRIBfont-ttype-dejavu
 TRIBfont-ttype-bitstream-vera
 TRIBfont-ttype-liberation
 TRIBfont-ttype-go
 TRIBeditor-vim-gtk2
-TRIBjansson
 TRIBdconf
+TRIBjansson
 TRIBv-emacs-28
 TRIBxdaliclock
 TRIBxcpustate
