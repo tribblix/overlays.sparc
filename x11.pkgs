@@ -33,6 +33,7 @@ TRIBfont-xorg-core
 TRIBx11-xcalc
 TRIBsys-lib-policykit
 TRIBsvc-hal
+TRIBx11-libdrm
 TRIBx11-data-xbitmaps
 TRIBx11-libxrender
 TRIBsys-lib-fontconfig
@@ -43,7 +44,6 @@ TRIBdesktop-wm-twm
 TRIBx11-session-xauth
 TRIBdev-macro-cpp
 TRIBx11-libxrandr
-TRIBx11-libxxf86misc
 TRIBx11-libxxf86vm
 TRIBx11-x11-server-utilities
 TRIBx11-session-xinit
