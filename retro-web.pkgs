@@ -1,5 +1,6 @@
 TRIBfltk
 TRIBgopher
+TRIBchimera
 TRIBdillo
 TRIBmosaic
 TRIBcompress-lzip
@@ -9,5 +10,4 @@ TRIBlynx
 TRIBgpgme
 TRIBslang
 TRIBmutt
-TRIBlibpng-compat
 TRIBnet-ftp
