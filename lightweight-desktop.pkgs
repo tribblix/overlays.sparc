@@ -13,14 +13,16 @@ TRIBlibgit2
 TRIBgeany-plugins
 TRIBnetsurf
 TRIBgrisbi
-TRIBjson-c
+TRIBjson-glib
 TRIBzathura
+TRIBlibsdl
 TRIBlibsdl2
 TRIBlibsndfile
 TRIBopus
 TRIBopusfile
 TRIBffmpeg
 TRIBsox
+TRIBimagination
 TRIBbluefish
 TRIBlibnotify
 TRIBosmo
