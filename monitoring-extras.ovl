@@ -1,4 +1,4 @@
-VERSION=4
+VERSION=5
 NAME=Additional monitoring utilities
 REQUIRES=monitoring
 REQUIRES=gtk3
