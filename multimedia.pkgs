@@ -5,6 +5,7 @@ TRIBliba52
 TRIBlibmad
 TRIBlibmng
 TRIBlibao
+TRIBlibsdl
 TRIBopusfile
 TRIBvorbis-tools
 TRIBlibopusenc
@@ -14,5 +15,6 @@ TRIBlibcdio-paranoia
 TRIBopenal
 TRIBmplayer
 TRIBlibsdl2
+TRIBffmpeg
 TRIBlibid3tag
 TRIBmadplay
