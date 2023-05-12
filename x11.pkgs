@@ -76,6 +76,7 @@ TRIBsvc-storage-media-volmgr
 SUNWopenxsun-headers
 SUNWopenxsun-keytables
 SUNWopenxsun-server
+TRIBopenxsun-compat
 SUNWm64cf
 SUNWm64w
 SUNWffbcf
