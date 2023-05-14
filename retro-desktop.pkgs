@@ -30,6 +30,7 @@ TRIBdjvulibre
 TRIBgraphics-jasper
 TRIBlib-openjpeg
 TRIBx11-appres
+TRIBxscreensaver
 TRIBgsettings-desktop-schemas
 TRIBpoppler
 TRIBlibwebp
@@ -38,6 +39,7 @@ TRIBimagemagick
 TRIBlibgxps
 TRIBlibspectre
 TRIBevince
+TRIBlibsynctex
 TRIBfont-ttype-dejavu
 TRIBfont-ttype-bitstream-vera
 TRIBfont-ttype-liberation
