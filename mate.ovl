@@ -1,0 +1,5 @@
+VERSION=18
+NAME=MATE desktop applications
+REQUIRES=gtk3
+REQUIRES=retro-desktop
+REQUIRES=gstreamer1
