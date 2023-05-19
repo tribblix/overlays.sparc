@@ -73,7 +73,7 @@ postgres15|1||
 python311|1||
 python37|1||
 python39|1||
-retro-desktop-extras|22||
+retro-desktop-extras|23||
 retro-desktop-games|9||
 retro-desktop|26||
 retro-web|10||
@@ -95,6 +95,6 @@ tomcat9|1||
 tribblix-tools|5||
 webdev|6||
 wfuzz|3||
-x11-extras|4||
+x11-extras|5||
 x11-fonts|1||
 x11|23||
