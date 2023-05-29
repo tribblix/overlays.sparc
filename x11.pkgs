@@ -38,9 +38,11 @@ TRIBx11-data-xbitmaps
 TRIBx11-libxrender
 TRIBsys-lib-fontconfig
 TRIBx11-libxft
+TRIBterminal-luit
 TRIBfont-xorg-iso8859-1
 TRIBterminal-xterm
 TRIBdesktop-wm-twm
+TRIBsys-keyboard-kbd-mode
 TRIBx11-session-xauth
 TRIBdev-macro-cpp
 TRIBx11-libxrandr
