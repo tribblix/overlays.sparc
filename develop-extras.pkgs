@@ -47,3 +47,4 @@ TRIBv-ruby-3
 TRIBdebug-gdb
 TRIBv-python-27
 TRIBpatchutils
+TRIBflamegraph
