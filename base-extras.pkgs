@@ -6,7 +6,7 @@ TRIBshell-zsh
 TRIBshell-dash
 TRIBshell-fish
 TRIBsvc-storage-removable-media
-SUNWtop
+TRIBtop
 TRIBneofetch
 TRIBsys-scheduler-fss
 TRIBsys-libutempter
