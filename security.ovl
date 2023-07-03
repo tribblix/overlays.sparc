@@ -1,5 +1,5 @@
-VERSION=20
+VERSION=21
 NAME=Security tools
 REQUIRES=dbus-glib
-REQUIRES=python39
+REQUIRES=python311
 REQUIRES=wfuzz
