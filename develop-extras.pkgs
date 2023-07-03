@@ -11,6 +11,7 @@ TRIBcython-python-39
 TRIBfastbencode-python-39
 TRIBfastimport-python-39
 TRIBpatiencediff-python-39
+TRIBcppunit
 TRIBdev-versioning-tig
 TRIBdev-check
 TRIBgnu-libiconv
