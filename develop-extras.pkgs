@@ -11,7 +11,7 @@ TRIBdev-versioning-tig
 TRIBdev-check
 TRIBgnu-libiconv
 TRIBreadline
-TRIBlibxml2-python-39
+TRIBlibxml2-python-311
 TRIBitstool
 TRIBsharutils
 TRIBtext-groff
