@@ -9,7 +9,7 @@ all-serial-drivers|1||
 all-storage-drivers|4||
 autotools|3||
 awesome|2||
-awscli|7||
+awscli|8||
 backup-utilities|1||
 base-extras|5||
 base-iso|24||
@@ -18,7 +18,7 @@ benchmark|1||
 borg|3||
 cli-tools-extras|1||
 cli-tools|16||
-cloudsec|13||
+cloudsec|14||
 compression-utilities|1||
 dbus-glib|4||
 desktop-mail|4||
