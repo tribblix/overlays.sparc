@@ -17,7 +17,7 @@ base|40||
 benchmark|1||
 borg|3||
 cli-tools-extras|1||
-cli-tools|16||
+cli-tools|17||
 cloudsec|14||
 compression-utilities|1||
 dbus-glib|4||
