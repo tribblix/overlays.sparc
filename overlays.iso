@@ -14,7 +14,7 @@ dbus-glib
 tcl-tk
 develop
 kitchen-sink
-python39
+python311
 server
 server-manage
 tls
