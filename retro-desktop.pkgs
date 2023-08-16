@@ -22,6 +22,9 @@ TRIBmurrine
 TRIBgnome-hicolor-icon-theme
 TRIBgnome-icon-theme
 TRIBlibao
+TRIBlibsndfile
+TRIBlibsamplerate
+TRIBlibtasn1
 TRIBrdesktop
 TRIBgpl-ghostscript
 TRIBimage-libexif
