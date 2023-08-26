@@ -57,8 +57,8 @@ legacy-audio|1||
 legacy-services|1||
 lightweight-desktop|6||
 live555|1||
-mate|18||
-monitoring-extras|5||
+mate|19||
+monitoring-extras|6||
 monitoring|11||
 motif-apps-extras|3||
 motif-apps|1||
@@ -75,7 +75,7 @@ postgres13|1||
 postgres15|1||
 python311|1||
 python39|1||
-retro-desktop-extras|27||
+retro-desktop-extras|28||
 retro-desktop-games|10||
 retro-desktop|27||
 retro-web|10||
@@ -87,8 +87,8 @@ security|21||
 server-manage|3||
 server|2||
 sphinx|7||
-storage-nas|4||
-storage-server|10||
+storage-nas|5||
+storage-server|11||
 tcl-tk|4||
 tls|2||
 tomcat10|1||
@@ -100,5 +100,5 @@ wfuzz|4||
 x11-extras|9||
 x11-fonts|1||
 x11|24||
-xfce-extras|14||
+xfce-extras|15||
 xfce|20||
