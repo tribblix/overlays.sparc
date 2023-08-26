@@ -1,11 +1,11 @@
 abiword|9||
-all-1394-drivers|1||
+all-1394-drivers|2||
 all-audio-drivers|1||
-all-crypto-drivers|1||
+all-crypto-drivers|2||
 all-fabric-drivers|2||
 all-locales|1||
 all-network-drivers|4||
-all-serial-drivers|1||
+all-serial-drivers|2||
 all-storage-drivers|4||
 autotools|3||
 awesome|2||
@@ -69,6 +69,7 @@ networked-system|18||
 ocr|2||
 openlook|1||
 pidgin|6||
+plan9|1||
 postgres-utils|5||
 postgres13|1||
 postgres15|1||
