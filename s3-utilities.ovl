@@ -1,4 +1,4 @@
-VERSION=12
-NAME=Python utilities for AWS and S3
+VERSION=13
+NAME=Utilities for AWS and S3
 REQUIRES=awscli
 REQUIRES=python311
