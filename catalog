@@ -23,7 +23,7 @@ compression-utilities|1||
 dbus-glib|4||
 desktop-mail|4||
 desktop-wallpaper|4||
-develop-extras|50||
+develop-extras|51||
 develop|39||
 dlna|4||
 dmarc|11||
@@ -40,8 +40,8 @@ gtk3|6||
 httpie|4||
 httpx|1||
 i3|5||
-illumos-build|29||
-illumos-docs|13||
+illumos-build|30||
+illumos-docs|14||
 imaging|18||
 java-desktop|5||
 java-develop-extras|1||
@@ -86,7 +86,7 @@ scala|5||
 security|21||
 server-manage|3||
 server|2||
-sphinx|7||
+sphinx|8||
 storage-nas|5||
 storage-server|11||
 tcl-tk|4||
