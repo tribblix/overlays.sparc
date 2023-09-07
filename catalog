@@ -34,9 +34,9 @@ gimp|7||
 gnumeric|5||
 gnupg2|3||
 groovy|6||
-gstreamer1|8||
-gtk2|1||
-gtk3|6||
+gstreamer1|9||
+gtk2|2||
+gtk3|7||
 httpie|4||
 httpx|1||
 i3|5||
@@ -66,7 +66,7 @@ motif|3||
 multimedia|3||
 nameserver|1||
 networked-system|18||
-ocr|2||
+ocr|3||
 openlook|1||
 pidgin|6||
 plan9|1||
