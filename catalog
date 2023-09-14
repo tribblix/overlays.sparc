@@ -16,7 +16,7 @@ base-iso|25||
 base|41||
 benchmark|1||
 borg|3||
-cli-tools-extras|1||
+cli-tools-extras|2||
 cli-tools|17||
 cloudsec|15||
 compression-utilities|1||
@@ -74,7 +74,7 @@ postgres-utils|6||
 postgres13|1||
 postgres15|1||
 python311|1||
-retro-desktop-extras|28||
+retro-desktop-extras|29||
 retro-desktop-games|10||
 retro-desktop|27||
 retro-web|10||
@@ -94,9 +94,9 @@ tomcat10|1||
 tomcat9|1||
 tribblix-tools|5||
 tuxpaint|1||
-webdev|7||
+webdev|8||
 wfuzz|5||
-x11-extras|9||
+x11-extras|10||
 x11-fonts|1||
 x11|24||
 xfce-extras|15||
