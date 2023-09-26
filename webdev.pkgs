@@ -7,6 +7,9 @@ TRIBicoutils
 TRIBdehydrated
 TRIBhtml-tidy
 TRIBhttping
+TRIBlibimagequant
 TRIBlibgd
+TRIBpngquant
+TRIBjpegoptim
 TRIBwebalizer
 TRIBgoaccess

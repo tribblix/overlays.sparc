@@ -18,7 +18,7 @@ benchmark|1||
 borg|3||
 cli-tools-extras|2||
 cli-tools|17||
-cloudsec|15||
+cloudsec|16||
 compression-utilities|1||
 dbus-glib|4||
 desktop-mail|4||
@@ -94,7 +94,7 @@ tomcat10|1||
 tomcat9|1||
 tribblix-tools|5||
 tuxpaint|1||
-webdev|8||
+webdev|9||
 wfuzz|5||
 x11-extras|10||
 x11-fonts|1||
