@@ -76,7 +76,7 @@ postgres15|1||
 printing|1||
 python311|1||
 retro-desktop-extras|29||
-retro-desktop-games|10||
+retro-desktop-games|11||
 retro-desktop|27||
 retro-web|10||
 rsyslog|2||
@@ -97,7 +97,7 @@ tribblix-tools|5||
 tuxpaint|1||
 webdev|9||
 wfuzz|5||
-x11-extras|10||
+x11-extras|11||
 x11-fonts|1||
 x11|24||
 xfce-extras|15||
