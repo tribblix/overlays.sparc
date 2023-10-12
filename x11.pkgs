@@ -69,7 +69,7 @@ TRIBx11-libfs
 TRIBx11-libxres
 TRIBx11-libxvmc
 TRIBx11-xfs-xfs-utilities
-SUNWxorg-mesa
+TRIBx11-lib-mesa
 TRIBx11-xmessage
 TRIBdev-build-imake
 TRIBxrestop
