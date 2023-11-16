@@ -21,6 +21,7 @@ TRIBgnu-libiconv
 TRIBreadline
 TRIBitstool
 TRIBsharutils
+TRIBswig
 TRIBtext-groff
 TRIBvala
 TRIBboehm-gc
