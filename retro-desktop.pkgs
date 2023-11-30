@@ -39,6 +39,7 @@ TRIBpoppler
 TRIBlibde265
 TRIBlibheif
 TRIBlibwebp
+TRIBwebp-pixbuf
 TRIBlibraw
 TRIBlibzip
 TRIBopenexr
@@ -63,3 +64,4 @@ TRIBhunspell
 TRIBspelldict-en
 TRIBenchant
 TRIBlibarchive
+TRIBbrotli
