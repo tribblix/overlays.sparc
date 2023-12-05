@@ -7,7 +7,7 @@ all-locales|1||
 all-network-drivers|4||
 all-serial-drivers|2||
 all-storage-drivers|4||
-autotools|4||
+autotools|5||
 awesome|2||
 awscli|9||
 backup-utilities|1||
@@ -20,7 +20,7 @@ cli-tools-extras|2||
 cli-tools|17||
 cloudsec|18||
 compression-utilities|1||
-dbus-glib|4||
+dbus-glib|5||
 desktop-mail|5||
 desktop-wallpaper|4||
 develop-extras|54||
@@ -74,9 +74,9 @@ perl-developer|1||
 pidgin|6||
 plan9|1||
 postgres-utils|8||
-postgres15|1||
+postgres15|2||
 printing|2||
-python311|1||
+python311|2||
 r|6||
 retro-desktop-extras|30||
 retro-desktop-games|13||
@@ -90,7 +90,7 @@ security|21||
 server-manage|3||
 server|2||
 sphinx|8||
-storage-nas|5||
+storage-nas|6||
 storage-server|11||
 tcl-tk|4||
 tls|2||
@@ -102,6 +102,6 @@ webdev|9||
 wfuzz|5||
 x11-extras|12||
 x11-fonts|1||
-x11|25||
+x11|26||
 xfce-extras|15||
 xfce|22||

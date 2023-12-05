@@ -1,7 +1,9 @@
 TRIBnet-iscsi-initiator
+TRIBsys-lib-iconv-utf-8
 TRIBsvc-file-system-nfs
 TRIBsvc-file-system-smb
 TRIBsys-file-system-smb
 TRIBsvc-storage-ndmp
 TRIBsvc-storage-virus-scan
 TRIBsys-monitoring-arcstat
+TRIBlsi-decode-loginfo
