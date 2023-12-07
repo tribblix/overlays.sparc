@@ -12,7 +12,7 @@ awesome|2||
 awscli|9||
 backup-utilities|1||
 base-extras|5||
-base-iso|26||
+base-iso|27||
 base|41||
 benchmark|1||
 borg|3||
@@ -66,7 +66,7 @@ motif-apps|1||
 motif|3||
 multimedia|4||
 nameserver|1||
-networked-system|19||
+networked-system|20||
 ocr|3||
 openlook|1||
 pandas|2||

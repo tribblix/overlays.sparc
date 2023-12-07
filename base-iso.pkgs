@@ -27,6 +27,8 @@ TRIBlib-security-trousers
 TRIBlib-security-openssl
 TRIBopenssl-compat
 TRIBsys-lib-security-gss
+TRIBsys-lib-security-gss-dh
+TRIBsys-lib-security-gss-spnego
 TRIBsvc-security-gss
 TRIBsvc-security-kerberos-5
 TRIBsys-net-routing
