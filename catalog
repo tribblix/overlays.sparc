@@ -1,4 +1,4 @@
-abiword|9||
+abiword|10||
 all-1394-drivers|2||
 all-audio-drivers|1||
 all-crypto-drivers|2||
@@ -18,7 +18,7 @@ benchmark|1||
 borg|3||
 cli-tools-extras|2||
 cli-tools|17||
-cloudsec|18||
+cloudsec|19||
 compression-utilities|1||
 dbus-glib|5||
 desktop-mail|5||
@@ -32,7 +32,7 @@ ede|1||
 fortran|3||
 game-emulators|3||
 gimp|7||
-gnumeric|5||
+gnumeric|6||
 gnupg2|3||
 groovy|6||
 gstreamer1|11||
@@ -41,7 +41,7 @@ gtk3|7||
 httpie|4||
 httpx|1||
 i3|5||
-illumos-build|30||
+illumos-build|31||
 illumos-docs|16||
 imaging|18||
 ipython|1||
@@ -80,7 +80,7 @@ python311|2||
 r|6||
 retro-desktop-extras|30||
 retro-desktop-games|13||
-retro-desktop|30||
+retro-desktop|31||
 retro-web|11||
 rsyslog|3||
 s3-utilities|13||
@@ -100,7 +100,7 @@ tribblix-tools|5||
 tuxpaint|3||
 webdev|9||
 wfuzz|5||
-x11-extras|12||
+x11-extras|13||
 x11-fonts|1||
 x11|26||
 xfce-extras|15||

@@ -26,6 +26,7 @@ TRIBlibsndfile
 TRIBlibsamplerate
 TRIBlibtasn1
 TRIBrdesktop
+TRIBcups
 TRIBgpl-ghostscript
 TRIBimage-libexif
 TRIBlib-lcms2
