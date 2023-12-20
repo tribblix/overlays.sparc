@@ -17,7 +17,6 @@ TRIBx11-keyboard-xkbcomp
 TRIBx11-libxi
 TRIBx11-libxtst
 TRIBx11-libfontenc
-TRIBx11-lib-xtrans
 TRIBsys-lib-freetype-2
 TRIBx11-libxfont
 TRIBx11-libxfont2
@@ -25,8 +24,6 @@ TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBcompress-xz
 TRIBimage-libtiff
-TRIBlibpng-compat
-TRIBlibtiff-compat
 TRIBlib-graphics-pixman
 TRIBx11-server-xvnc
 TRIBfont-xorg-core
@@ -53,6 +50,7 @@ TRIBx11-libxfixes
 TRIBx11-libxdamage
 TRIBdiagnostic-constype
 TRIBsvc-opengl-ogl-select
+TRIBx11-lib-mesa
 TRIBx11-xclock
 TRIBx11-xconsole
 TRIBx11-libxinerama
@@ -63,13 +61,11 @@ TRIBx11-libxcursor
 TRIBx11-libxv
 TRIBx11-libxscrnsaver
 TRIBx11-data-xcursor-themes
-TRIBx11-iceauth
 TRIBx11-font-utilities
 TRIBx11-libfs
 TRIBx11-libxres
 TRIBx11-libxvmc
 TRIBx11-xfs-xfs-utilities
-TRIBx11-lib-mesa
 TRIBx11-xmessage
 TRIBdev-build-imake
 TRIBxrestop
