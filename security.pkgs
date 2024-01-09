@@ -8,6 +8,12 @@ TRIBnmap
 TRIBaide
 TRIBcommix
 TRIBlynis
+TRIBlibogg
+TRIBlibspeex
+TRIBsnappy
+TRIBbrotli
+TRIBlibcares
+TRIBwireshark
 TRIBlibyaml
 TRIBlib-perl-5-net-ssleay
 TRIBnikto
@@ -27,6 +33,7 @@ TRIBcharset-norm-python-311
 TRIBrequests-python-311
 TRIBgibberish-det-python-311
 TRIBdetect-secrets-python-311
+TRIBssh-audit-python-311
 TRIBgraudit
 TRIBtext-utilities
 TRIBtestssl-sh
