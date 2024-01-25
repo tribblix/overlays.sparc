@@ -97,6 +97,8 @@ TRIBsys-kernel-cpu-sun4v
 TRIBdrv-cpu-us
 TRIBsys-lib-platform
 TRIBsys-lib-processor
+TRIBsys-domain-conf-enterprise
+TRIBsys-domain-sp-enterprise
 SUNWm64
 SUNWffb
 SUNWpfb
