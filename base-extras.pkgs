@@ -2,3 +2,8 @@ TRIBshell-dash
 TRIBshell-fish
 TRIBsvc-storage-removable-media
 TRIBsys-file-system-udfs
+TRIBsvc-resource-cap
+TRIBdrv-usb-ugen
+TRIBdrv-misc-ccid
+TRIBsys-libpcsc
+TRIBlibusb
