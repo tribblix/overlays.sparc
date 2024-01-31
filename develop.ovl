@@ -1,7 +1,6 @@
-VERSION=41
+VERSION=42
 NAME=Development Tools
 REQUIRES=cli-tools
-REQUIRES=base-extras
 REQUIRES=dbus-glib
 REQUIRES=tcl-tk
 REQUIRES=tls

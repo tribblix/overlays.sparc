@@ -1,8 +1,7 @@
-VERSION=31
+VERSION=32
 NAME=Retro Desktop environments and utilities
 REQUIRES=x11
 REQUIRES=cli-tools
-REQUIRES=base-extras
 REQUIRES=tls
 REQUIRES=all-audio-drivers
 REQUIRES=legacy-audio
