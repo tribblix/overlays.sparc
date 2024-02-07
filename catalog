@@ -68,6 +68,7 @@ multimedia|5||
 nameserver|1||
 networked-system|20||
 ocr|3||
+openjdk-build|8||
 openlook|1||
 pandas|3||
 perl-developer|1||
