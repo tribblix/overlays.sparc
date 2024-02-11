@@ -13,6 +13,7 @@ dbus-glib
 tcl-tk
 develop
 kitchen-sink
+modern-cli-tools
 python311
 server
 server-manage

@@ -1,5 +1,6 @@
-VERSION=11
+VERSION=12
 NAME=Everything but the kitchen sink
 REQUIRES=x11
 REQUIRES=develop
 REQUIRES=server
+REQUIRES=modern-cli-tools

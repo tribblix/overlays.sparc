@@ -54,12 +54,13 @@ java|35||
 java11|1||
 java8|43||
 jruby|4||
-kitchen-sink|11||
+kitchen-sink|12||
 language-extras|1||
 legacy-audio|1||
 lightweight-desktop|8||
 live555|1||
 mate|19||
+modern-cli-tools|1||
 monitoring-extras|6||
 monitoring|11||
 motif-apps-extras|4||
