@@ -8,7 +8,7 @@ all-network-drivers|4||
 all-serial-drivers|2||
 all-storage-drivers|4||
 autotools|5||
-awesome|2||
+awesome|3||
 awscli|9||
 backup-utilities|1||
 base-extras|12||
@@ -57,9 +57,9 @@ jruby|4||
 kitchen-sink|12||
 language-extras|1||
 legacy-audio|1||
-lightweight-desktop|9||
+lightweight-desktop|10||
 live555|1||
-mate|19||
+mate|20||
 modern-cli-tools|1||
 monitoring-extras|6||
 monitoring|11||
