@@ -23,7 +23,6 @@ TRIBgcc4runtime
 TRIBsys-file-system-nfs
 TRIBsys-file-system-zfs
 TRIBlibtecla
-TRIBlib-security-trousers
 TRIBlib-security-openssl
 TRIBopenssl-compat
 TRIBsys-lib-security-gss
@@ -106,5 +105,6 @@ SUNWnfb
 SUNWafb
 SUNWifb
 SUNWkfb
+TRIBlib-security-trousers
 TRIBsvc-fma
 TRIBdiagnostic-diskinfo
