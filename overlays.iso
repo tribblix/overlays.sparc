@@ -9,6 +9,7 @@ all-storage-drivers
 base-iso
 base
 cli-tools
+core-tribblix
 dbus-glib
 tcl-tk
 develop
