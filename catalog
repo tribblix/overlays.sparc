@@ -22,7 +22,7 @@ cloudsec|20||
 compression-utilities|1||
 core-tribblix|1||
 dbus-glib|5||
-desktop-mail|5||
+desktop-mail|6||
 desktop-wallpaper|4||
 develop-extras|56||
 develop|42||
@@ -85,7 +85,7 @@ r|6||
 retro-desktop-extras|30||
 retro-desktop-games|13||
 retro-desktop|32||
-retro-web|11||
+retro-web|12||
 rsyslog|4||
 s3-utilities|13||
 samba|10||
