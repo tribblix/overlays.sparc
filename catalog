@@ -21,6 +21,7 @@ cli-tools|20||
 cloudsec|21||
 compression-utilities|1||
 core-tribblix|1||
+dask|1||
 dbus-glib|5||
 desktop-mail|6||
 desktop-wallpaper|4||
