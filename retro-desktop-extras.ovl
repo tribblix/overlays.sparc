@@ -1,4 +1,4 @@
-VERSION=30
+VERSION=31
 NAME=Extra Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
