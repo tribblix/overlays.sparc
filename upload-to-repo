@@ -7,7 +7,7 @@
 
 REPOHOST="pkgs.tribblix.org"
 REPODIR="/var/repo"
-REPOVER="m30"
+REPOVER="m31"
 REPOTYPE=".sparc"
 
 case $1 in
@@ -35,13 +35,13 @@ case $# in
 	;;
 esac
 
-for file in $*
+for file in "$@"
 do
-    if [ ! -f $file ]; then
+    if [ ! -f "$file" ]; then
 	echo "ERROR: Missing file $file"
 	exit 1
     fi
 done
 
 #
-scp $* ${REPOHOST}:${REPODIR}/${REPO}
+scp "$@" ${REPOHOST}:${REPODIR}/"${REPO}"
