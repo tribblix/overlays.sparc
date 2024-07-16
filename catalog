@@ -90,7 +90,7 @@ rsyslog|4||
 s3-utilities|13||
 samba|10||
 scala|5||
-security|23||
+security|24||
 server-manage|3||
 server|2||
 sphinx|8||
@@ -103,7 +103,7 @@ tomcat9|1||
 tribblix-tools|5||
 tuxpaint|3||
 webdev|12||
-wfuzz|6||
+wfuzz|7||
 x11-extras|14||
 x11-fonts|1||
 x11|29||
