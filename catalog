@@ -21,7 +21,7 @@ cli-tools|21||
 cloudsec|22||
 compression-utilities|1||
 core-tribblix|1||
-dask|1||
+dask|2||
 dbus-glib|5||
 desktop-mail|6||
 desktop-wallpaper|4||
@@ -72,7 +72,7 @@ nameserver|2||
 networked-system|21||
 openjdk-build|8||
 openlook|1||
-pandas|3||
+pandas|4||
 perl-developer|1||
 pidgin|6||
 plan9|1||
