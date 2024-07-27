@@ -15,7 +15,7 @@ tcl-tk
 develop
 kitchen-sink
 modern-cli-tools
-python311
+python312
 server
 server-manage
 tls
