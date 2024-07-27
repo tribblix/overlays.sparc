@@ -28,7 +28,7 @@ desktop-wallpaper|4||
 develop-extras|60||
 develop|43||
 dlna|5||
-dmarc|11||
+dmarc|12||
 ede|1||
 fortran|3||
 game-emulators|3||
@@ -39,8 +39,8 @@ groovy|6||
 gstreamer1|11||
 gtk2|2||
 gtk3|7||
-httpie|4||
-httpx|1||
+httpie|5||
+httpx|2||
 i3|6||
 illumos-build|32||
 illumos-docs|16||
@@ -102,7 +102,7 @@ tomcat10|1||
 tomcat9|1||
 tribblix-tools|5||
 tuxpaint|3||
-webdev|12||
+webdev|13||
 wfuzz|7||
 x11-extras|14||
 x11-fonts|1||
