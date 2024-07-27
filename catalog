@@ -16,8 +16,8 @@ base-iso|29||
 base|47||
 benchmark|1||
 borg|4||
-cli-tools-extras|4||
-cli-tools|21||
+cli-tools-extras|5||
+cli-tools|22||
 cloudsec|23||
 compression-utilities|1||
 core-tribblix|1||
