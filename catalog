@@ -18,7 +18,7 @@ benchmark|1||
 borg|4||
 cli-tools-extras|4||
 cli-tools|21||
-cloudsec|22||
+cloudsec|23||
 compression-utilities|1||
 core-tribblix|1||
 dask|2||
@@ -90,7 +90,7 @@ rsyslog|4||
 s3-utilities|14||
 samba|10||
 scala|5||
-security|24||
+security|25||
 server-manage|3||
 server|2||
 sphinx|9||
