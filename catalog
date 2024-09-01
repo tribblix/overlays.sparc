@@ -94,8 +94,8 @@ security|27||
 server-manage|4||
 server|2||
 sphinx|9||
-storage-nas|6||
-storage-server|11||
+storage-nas|7||
+storage-server|12||
 tcl-tk|5||
 tls|2||
 tomcat10|1||
