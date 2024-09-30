@@ -6,7 +6,6 @@ TRIBdrv-storage-mr-sas
 TRIBdrv-storage-pmcs
 TRIBdrv-storage-sbp2
 TRIBdrv-storage-scsa1394
-TRIBdrv-storage-sdcard
 TRIBdrv-storage-ses
 TRIBdrv-storage-smp
 TRIBdrv-storage-ssd
