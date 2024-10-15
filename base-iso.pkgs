@@ -60,3 +60,5 @@ SUNWifb
 SUNWkfb
 TRIBsvc-fma
 TRIBdiagnostic-diskinfo
+TRIBdev-debug-mdb
+TRIBdev-debug-mdb-module-fc
