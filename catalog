@@ -20,7 +20,7 @@ cli-tools-extras|6||
 cli-tools|22||
 cloudsec|23||
 compression-utilities|1||
-core-tribblix|1||
+core-tribblix|2||
 dask|2||
 dbus-glib|5||
 desktop-mail|6||

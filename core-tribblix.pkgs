@@ -46,3 +46,5 @@ TRIBwget
 TRIBzap
 TRIBzap-upgrade
 TRIBlib-security-trousers
+TRIBlibsodium
+TRIBminisign
