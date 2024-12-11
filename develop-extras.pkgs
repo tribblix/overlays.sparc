@@ -35,6 +35,7 @@ TRIBdistlib-python-312
 TRIBfilelock-python-312
 TRIBplatformdirs-python-312
 TRIBvirtualenv-python-312
+TRIBcups
 TRIBhtmldoc
 TRIBiso-codes
 TRIBhelp2man
