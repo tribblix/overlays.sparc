@@ -13,12 +13,15 @@ TRIBsnappy
 TRIBsnappy-python-312
 TRIBlz4-python-312
 TRIBzstandard-python-312
+TRIBlib-perl-5-clone
+TRIBlib-perl-5-timedate
 TRIBlib-perl-5-http-date
 TRIBlib-perl-5-io-html
 TRIBlib-perl-5-lwp-mediatypes
 TRIBlib-perl-5-html-tagset
 TRIBlib-perl-5-http-message
 TRIBlib-perl-5-html-parser
+TRIBlib-perl-5-mime-base32
 TRIBlib-perl-5-uri
 TRIBlib-perl-5-cgi
 TRIBlib-perl-5-common-sense

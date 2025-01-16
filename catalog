@@ -73,10 +73,10 @@ networked-system|22||
 openjdk-build|8||
 openlook|1||
 pandas|4||
-perl-developer|1||
+perl-developer|2||
 pidgin|6||
 plan9|1||
-postgres-utils|15||
+postgres-utils|16||
 postgres15|2||
 printing|2||
 python312|1||
@@ -107,4 +107,4 @@ x11-extras|15||
 x11-fonts|1||
 x11|30||
 xfce-extras|16||
-xfce|24||
+xfce|25||
