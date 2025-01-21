@@ -20,12 +20,9 @@ TRIBnikto
 TRIBlibssh
 TRIBsqlmap
 TRIByaml-python-312
-TRIBbrotli-python-312
-TRIBcertifi-python-312
 TRIBpycparser-python-312
 TRIBcffi-python-312
 TRIBcryptography-python-312
-TRIBidna-python-312
 TRIBpyopenssl-312
 TRIBpysocks-python-312
 TRIBurllib3-python-312
@@ -45,10 +42,6 @@ TRIBconfigargparse-python-312
 TRIBjinja-python-312
 TRIBpyparsing-python-312
 TRIBgixy-python-312
-TRIBmdurl-python-312
-TRIBmarkdown-it-python-312
-TRIBpygments-312
-TRIBrich-python-312
 TRIBpbr-python-312
 TRIBstevedore-python-312
 TRIBbandit-python-312
