@@ -12,7 +12,7 @@ awesome|3||
 awscli|10||
 b2|4||
 backup-utilities|3||
-base-extras|12||
+base-extras|13||
 base-iso|30||
 base|50||
 benchmark|1||
@@ -45,7 +45,7 @@ httpx|5||
 i3|6||
 illumos-build|33||
 illumos-docs|18||
-imaging|26||
+imaging|27||
 ipython|3||
 java-desktop|7||
 java-develop-extras|1||
