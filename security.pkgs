@@ -42,6 +42,15 @@ TRIBconfigargparse-python-312
 TRIBjinja-python-312
 TRIBpyparsing-python-312
 TRIBgixy-python-312
+TRIBdnspython-python-312
+TRIBgmpy2-python-312
+TRIBlibsodium
+TRIBbcrypt-python-312
+TRIBinvoke-python-312
+TRIBpyasn1-python-312
+TRIBpynacl-python-312
+TRIBparamiko-python-312
+TRIBbadkeys-python-312
 TRIBpbr-python-312
 TRIBstevedore-python-312
 TRIBbandit-python-312
