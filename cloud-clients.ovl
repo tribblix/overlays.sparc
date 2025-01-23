@@ -1,0 +1,4 @@
+VERSION=13
+NAME=Clients for interacting with clouds
+REQUIRES=awscli
+REQUIRES=httpx
