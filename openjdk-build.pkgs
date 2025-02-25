@@ -5,3 +5,15 @@ TRIBgnutls
 TRIBnettle
 TRIBv-apache-ant-110
 TRIBjtreg
+TRIBlib-desktop-cairo
+TRIBlibgraphite2
+TRIBlibicu
+TRIBharfbuzz
+TRIBsys-lib-cpp-sunpro
+TRIBlibffi
+TRIBopenjdk12
+TRIBopenjdk13
+TRIBopenjdk14
+TRIBopenjdk15
+TRIBopenjdk16
+TRIBopenjdk18
