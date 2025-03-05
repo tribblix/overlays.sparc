@@ -1,6 +1,6 @@
-VERSION=14
+VERSION=15
 NAME=Some web development utilities
-REQUIRES=develop
+REQUIRES=cli-tools
 REQUIRES=gimp
 REQUIRES=gtk3
 REQUIRES=httpie
