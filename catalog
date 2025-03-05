@@ -18,7 +18,7 @@ base|50||
 benchmark|1||
 borg|5||
 cli-tools-extras|7||
-cli-tools|22||
+cli-tools|23||
 cloud-clients|14||
 cloudsec|24||
 compression-utilities|1||
@@ -28,7 +28,7 @@ dbus-glib|5||
 desktop-mail|6||
 desktop-wallpaper|4||
 develop-extras|63||
-develop|48||
+develop|49||
 dlna|5||
 dmarc|15||
 ede|1||
