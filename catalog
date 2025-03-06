@@ -9,7 +9,7 @@ all-serial-drivers|2||
 all-storage-drivers|5||
 autotools|5||
 awesome|3||
-awscli|10||
+awscli|11||
 b2|4||
 backup-utilities|3||
 base-extras|13||
