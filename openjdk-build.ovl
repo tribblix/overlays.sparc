@@ -1,5 +1,5 @@
 VERSION=9
-NAME=OpenJDK Build Environment
+NAME=OpenJDK builder
 REQUIRES=java8
 REQUIRES=java11
 REQUIRES=java17
