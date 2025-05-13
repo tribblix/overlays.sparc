@@ -9,3 +9,4 @@ TRIBdrv-storage-scsa1394
 TRIBdrv-storage-ses
 TRIBdrv-storage-smp
 TRIBdrv-storage-ssd
+TRIBdrv-pcmcia

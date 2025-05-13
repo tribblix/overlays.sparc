@@ -6,7 +6,7 @@ all-fabric-drivers|3||
 all-locales|1||
 all-network-drivers|4||
 all-serial-drivers|2||
-all-storage-drivers|5||
+all-storage-drivers|6||
 autotools|5||
 awesome|3||
 awscli|11||
