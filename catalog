@@ -16,6 +16,7 @@ base-extras|13||
 base-iso|30||
 base|50||
 benchmark|1||
+boot-server|1||
 borg|5||
 cli-tools-extras|7||
 cli-tools|23||
