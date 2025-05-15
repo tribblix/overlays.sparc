@@ -30,7 +30,6 @@ TRIBgnu-m4
 TRIBgnu-gettext
 TRIBbison
 TRIBtext-gawk
-TRIBtkdiff
 TRIBdev-versioning-git
 TRIBtext-locale
 TRIBncurses

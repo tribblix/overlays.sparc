@@ -1,6 +1,5 @@
-VERSION=49
+VERSION=50
 NAME=Development Tools
 REQUIRES=cli-tools
 REQUIRES=dbus-glib
-REQUIRES=tcl-tk
 REQUIRES=tls

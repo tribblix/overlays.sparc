@@ -28,8 +28,8 @@ dask|5||
 dbus-glib|5||
 desktop-mail|6||
 desktop-wallpaper|4||
-develop-extras|64||
-develop|49||
+develop-extras|65||
+develop|50||
 dlna|5||
 dmarc|16||
 ede|1||
@@ -59,7 +59,7 @@ java11|1||
 java17|1||
 java8|48||
 jruby|4||
-kitchen-sink|12||
+kitchen-sink|13||
 language-extras|2||
 legacy-audio|1||
 lightweight-desktop|12||
@@ -75,7 +75,7 @@ nameserver|2||
 networked-system|22||
 openjdk-build|9||
 openlook|1||
-pandas|5||
+pandas|6||
 perl-developer|2||
 pidgin|6||
 plan9|1||
