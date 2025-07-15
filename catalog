@@ -46,7 +46,7 @@ httpie|7||
 httpx|5||
 i3|6||
 illumos-build|33||
-illumos-docs|19||
+illumos-docs|20||
 imaging|31||
 ipython|3||
 java-desktop|7||
@@ -97,7 +97,7 @@ scala|5||
 security|31||
 server-manage|4||
 server|2||
-sphinx|12||
+sphinx|13||
 storage-nas|7||
 storage-server|12||
 tcl-tk|5||
