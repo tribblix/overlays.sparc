@@ -10,6 +10,7 @@ TRIBpyasn1-python-312
 TRIBlibsodium
 TRIBpynacl-python-312
 TRIBinvoke-python-312
+TRIBmerge3-python-312
 TRIBparamiko-python-312
 TRIBdulwich-python-312
 TRIBcython-python-312
