@@ -1,0 +1,15 @@
+TRIBcompress-xz
+TRIBimage-libjpeg
+TRIBimage-libpng
+TRIBlib-expat
+TRIBlibzip
+TRIBsys-lib-freetype-2
+TRIBbrotli
+TRIBblix-apache-24
+TRIBlibedit
+TRIBsnappy
+TRIBblix-mariadb
+TRIBblix-php-8
+TRIBtext-gawk
+TRIBtext-utilities
+TRIBdehydrated

@@ -7,6 +7,7 @@ all-locales|1||
 all-network-drivers|4||
 all-serial-drivers|2||
 all-storage-drivers|6||
+amp-stack|15||
 autotools|5||
 awesome|3||
 awscli|11||

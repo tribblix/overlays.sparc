@@ -1,0 +1,3 @@
+VERSION=15
+NAME=AMP stack
+REQUIRES=base
