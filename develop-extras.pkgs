@@ -10,11 +10,11 @@ TRIBpyasn1-python-312
 TRIBlibsodium
 TRIBpynacl-python-312
 TRIBinvoke-python-312
-TRIBmerge3-python-312
 TRIBparamiko-python-312
 TRIBdulwich-python-312
 TRIBcython-python-312
 TRIBfastimport-python-312
+TRIBmerge3-python-312
 TRIBcppunit
 TRIBdev-versioning-tig
 TRIBdev-check
@@ -59,6 +59,7 @@ TRIBcattrs-python-312
 TRIBimportlib-python-312
 TRIBmypy-extensions-python-312
 TRIBpathspec-python-312
+TRIBpytokens-python-312
 TRIBblack-python-312
 TRIBdocstring2md-python-312
 TRIBjedi-python-312
