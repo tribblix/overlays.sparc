@@ -1,4 +1,0 @@
-VERSION=16
-NAME=DMARC analysis
-REQUIRES=httpx
-REQUIRES=python312
