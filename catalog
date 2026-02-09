@@ -19,7 +19,7 @@ base|50||
 benchmark|1||
 boot-server|1||
 borg|5||
-cli-tools-extras|9||
+cli-tools-extras|10||
 cli-tools|24||
 cloud-clients|15||
 cloudsec|24||
