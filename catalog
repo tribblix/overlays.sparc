@@ -15,7 +15,7 @@ b2|6||
 backup-utilities|4||
 base-extras|13||
 base-iso|30||
-base|50||
+base|51||
 benchmark|1||
 boot-server|1||
 borg|5||
@@ -100,7 +100,7 @@ sphinx|13||
 storage-nas|7||
 storage-server|12||
 tcl-tk|5||
-tls|2||
+tls|3||
 tomcat10|1||
 tomcat9|1||
 tribblix-tools|8||
