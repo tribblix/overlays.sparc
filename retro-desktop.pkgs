@@ -43,6 +43,8 @@ TRIBlibwebp
 TRIBwebp-pixbuf
 TRIBlibraw
 TRIBlibzip
+TRIBlibdeflate
+TRIBopenjph
 TRIBopenexr
 TRIBimagemagick
 TRIBlibgxps
