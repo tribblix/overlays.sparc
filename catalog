@@ -30,7 +30,7 @@ dbus-glib|5||
 desktop-mail|7||
 desktop-wallpaper|4||
 develop-extras|69||
-develop|50||
+develop|51||
 dlna|5||
 ede|1||
 fortran|3||
@@ -82,7 +82,7 @@ plan9|1||
 postgres-utils|20||
 postgres17|1||
 printing|2||
-python-developer|1||
+python-developer|2||
 python312|1||
 r|7||
 retro-desktop-extras|36||
