@@ -22,10 +22,10 @@ borg|5||
 cli-tools-extras|12||
 cli-tools|24||
 cloud-clients|16||
-cloudsec|25||
+cloudsec|26||
 compression-utilities|1||
 core-tribblix|3||
-dask|5||
+dask|6||
 dbus-glib|5||
 desktop-mail|7||
 desktop-wallpaper|4||
@@ -46,7 +46,7 @@ httpie|8||
 httpx|6||
 i3|6||
 illumos-build|34||
-illumos-docs|20||
+illumos-docs|21||
 imaging|34||
 ipython|5||
 java-desktop|7||
@@ -97,7 +97,7 @@ scala|5||
 security|37||
 server-manage|4||
 server|2||
-sphinx|14||
+sphinx|15||
 storage-nas|8||
 storage-server|12||
 tcl-tk|5||
