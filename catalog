@@ -48,7 +48,7 @@ i3|6||
 illumos-build|34||
 illumos-docs|21||
 imaging|34||
-ipython|5||
+ipython|6||
 java-desktop|7||
 java-develop-extras|2||
 java-developer|12||
@@ -82,7 +82,7 @@ plan9|1||
 postgres-utils|21||
 postgres17|1||
 printing|2||
-python-developer|3||
+python-developer|4||
 python312|1||
 python313|1||
 r|7||
