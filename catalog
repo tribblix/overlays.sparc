@@ -18,7 +18,7 @@ base-iso|30||
 base|51||
 benchmark|1||
 boot-server|1||
-borg|5||
+borg|6||
 cli-tools-extras|12||
 cli-tools|24||
 cloud-clients|16||
