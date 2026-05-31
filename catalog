@@ -30,7 +30,7 @@ dbus-glib|5||
 desktop-mail|7||
 desktop-wallpaper|4||
 develop-extras|70||
-develop|51||
+develop|52||
 dlna|5||
 ede|1||
 fortran|3||
@@ -46,7 +46,7 @@ httpie|8||
 httpx|6||
 i3|6||
 illumos-build|34||
-illumos-docs|21||
+illumos-docs|22||
 imaging|34||
 ipython|6||
 java-desktop|7||
@@ -111,5 +111,5 @@ x11-extras|17||
 x11-fonts|2||
 x11|31||
 xfce-extras|16||
-xfce|25||
+xfce|26||
 zabbix-server|17||
