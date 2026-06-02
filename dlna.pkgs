@@ -4,6 +4,7 @@ TRIBimage-libexif
 TRIBlib-desktop-gsf
 TRIBlibiptcdata
 TRIBpoppler
+TRIBlibsoup3
 TRIBgssdp
 TRIBgtksourceview4
 TRIBgupnp
@@ -15,7 +16,6 @@ TRIBlibarchive
 TRIBgiflib
 TRIBjson-glib
 TRIBlibgxps
-TRIBtracker
 TRIBgupnp-tools
 TRIBlibunistring
 TRIBrygel
