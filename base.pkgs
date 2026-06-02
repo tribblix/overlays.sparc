@@ -17,7 +17,6 @@ TRIBsys-kernel-power
 TRIBsys-kernel-suspend-resume
 TRIBdev-dtrace
 TRIBfile-gnu-coreutils
-TRIBlib-pcre
 TRIBlib-pcre2
 TRIBsys-data-hardware-registry
 TRIBsys-scheduler-fss

@@ -15,7 +15,7 @@ b2|8||
 backup-utilities|4||
 base-extras|13||
 base-iso|30||
-base|51||
+base|52||
 benchmark|1||
 boot-server|1||
 borg|6||
@@ -67,7 +67,7 @@ mate|22||
 modern-cli-tools|2||
 monitoring-extras|9||
 monitoring|14||
-motif-apps-extras|6||
+motif-apps-extras|7||
 motif-apps|1||
 motif|4||
 multimedia|5||
