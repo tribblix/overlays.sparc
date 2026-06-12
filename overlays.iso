@@ -14,7 +14,7 @@ dbus-glib
 develop
 kitchen-sink
 modern-cli-tools
-python312
+python313
 server
 server-manage
 tls
