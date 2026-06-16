@@ -1,5 +1,5 @@
 NAME=Pandas, with extra modules
-VERSION=7
+VERSION=8
 REQUIRES=python312
 REQUIRES=fortran
 REQUIRES=x11
