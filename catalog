@@ -30,10 +30,10 @@ dbus-glib|6||
 desktop-mail|7||
 desktop-wallpaper|4||
 develop-extras|70||
-develop|53||
+develop|54||
 dlna|6||
 ede|1||
-fortran|3||
+fortran|4||
 game-emulators|3||
 gimp|7||
 gnumeric|6||
@@ -85,7 +85,7 @@ printing|2||
 python-developer|6||
 python312|2||
 python313|2||
-r|7||
+r|8||
 retro-desktop-extras|39||
 retro-desktop-games|16||
 retro-desktop|33||
