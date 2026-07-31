@@ -1,5 +1,6 @@
 TRIBopenblas
 TRIBnumpy-python-313
+TRIBsix-python-313
 TRIBdateutil-python-313
 TRIBpytz-python-313
 TRIBtzdata-python-313
@@ -42,3 +43,4 @@ TRIBbeautifulsoup4-python-313
 TRIBgreenlet-python-313
 TRIBtyping-ext-python-313
 TRIBsqlalchemy-python-313
+TRIBfsspec-python-313
