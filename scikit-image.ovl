@@ -1,0 +1,4 @@
+NAME=scikit-image, Image processing in Python
+VERSION=11
+REQUIRES=scipy
+REQUIRES=x11

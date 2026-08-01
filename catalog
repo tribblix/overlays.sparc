@@ -94,6 +94,9 @@ rsyslog|5||
 s3-utilities|15||
 samba|11||
 scala|5||
+scikit-image|11||
+scikit-learn|7||
+scipy|8||
 security|37||
 server-manage|4||
 server|3||
