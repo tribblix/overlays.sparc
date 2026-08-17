@@ -19,6 +19,7 @@ base|53||
 benchmark|1||
 boot-server|1||
 borg|6||
+boto|1||
 cli-tools-extras|12||
 cli-tools|25||
 cloud-clients|16||
