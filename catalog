@@ -23,7 +23,7 @@ boto|1||
 cli-tools-extras|12||
 cli-tools|25||
 cloud-clients|16||
-cloudsec|27||
+cloudsec|28||
 compression-utilities|1||
 core-tribblix|3||
 dask|7||
@@ -80,7 +80,7 @@ pandas|9||
 perl-developer|2||
 pidgin|6||
 plan9|1||
-postgres-utils|22||
+postgres-utils|23||
 postgres17|1||
 printing|2||
 python-developer|6||
