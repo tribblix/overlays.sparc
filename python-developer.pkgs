@@ -8,6 +8,7 @@ TRIBbeniget-python-313
 TRIBdeprecation-python-313
 TRIBgast-python-313
 TRIBninja
+TRIBnumpy-python-313
 TRIBpathspec-python-313
 TRIBpluggy-python-313
 TRIBply-python-313
@@ -32,6 +33,7 @@ TRIBmesonpy-python-313
 TRIBpkgconfig-python-313
 TRIBpoetry-core-python-313
 TRIBpybind11-python-313
+TRIBpythran-python-313
 TRIBsetup-gettext-python-313
 TRIBvcs-versioning-python-313
 TRIBsetup-scm-python-313
@@ -41,18 +43,8 @@ TRIBwheel-python-313
 TRIBpdm-backend-python-313
 TRIBbuild-python-313
 TRIBpyproject-deps-python-313
-TRIBnumpy-python-312
 TRIBsetuptools-python-312
-TRIBcython-python-312
 TRIBsetup-scm-python-312
 TRIBflit-core-python-312
-TRIBpathspec-python-312
-TRIBpluggy-python-312
-TRIBtrove-class-python-312
 TRIBvcs-versioning-python-312
-TRIBhatch-vcs-python-312
-TRIBhatchling-python-312
-TRIBpoetry-core-python-312
-TRIBpkgconfig-python-312
-TRIBversioneer-python-312
 TRIBwheel-python-312
