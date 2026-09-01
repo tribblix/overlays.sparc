@@ -47,7 +47,7 @@ httpie|8||
 httpx|6||
 i3|6||
 illumos-build|35||
-illumos-docs|23||
+illumos-docs|24||
 imaging|34||
 ipython|7||
 java-desktop|7||
@@ -96,7 +96,7 @@ s3-utilities|15||
 samba|11||
 scala|5||
 scikit-image|11||
-scikit-learn|7||
+scikit-learn|8||
 scipy|8||
 security|37||
 server-manage|4||
