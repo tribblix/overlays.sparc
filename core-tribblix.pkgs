@@ -40,7 +40,6 @@ TRIBlocale-en
 TRIBsys-libfcoe
 TRIBpackage-svr4
 TRIBinstall-beadm
-TRIBlibidn
 TRIBca-bundle
 TRIBwget
 TRIBzap
