@@ -10,6 +10,7 @@ TRIBexiv2
 TRIBpillow-python-313
 TRIBfreetype-python-313
 TRIBpycairo-python-313
+TRIBrlaccel-python-313
 TRIBrlpycairo-python-313
 TRIBuharfbuzz-python-313
 TRIBreportlab-python-313
@@ -63,7 +64,6 @@ TRIBansilove
 TRIBdurdraw
 TRIBlibxslt
 TRIBwrapt-python-313
-TRIBdeprecated-python-313
 TRIBlxml-python-313
 TRIBqpdf
 TRIBpikepdf-python-313
