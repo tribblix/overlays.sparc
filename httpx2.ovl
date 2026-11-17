@@ -1,0 +1,3 @@
+NAME=httpx2
+VERSION=1
+REQUIRES=python313
